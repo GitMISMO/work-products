@@ -97,7 +97,7 @@
     {
       "id": "mismo-version-3-0",
       "title": "MISMO Version 3.0 Reference Model",
-      "summary": "0 is in Recommendation status which is the highest possible maturity level for a MISMO standard. A Recommendation has been thoroughly reviewed and implemented by a wide range of organizations and industry participants.",
+      "summary": "MISMO Version 3.0 is in Recommendation status which is the highest possible maturity level for a MISMO standard. A Recommendation has been thoroughly reviewed and implemented by a wide range of organizations and industry participants.",
       "category": null,
       "version": null,
       "status": null,
@@ -167,7 +167,7 @@
     {
       "id": "va-form-26-8937-verification-of-va-benefits",
       "title": "VA Form 26-8937 Verification of VA Benefits",
-      "summary": "A MISMO dataset mapping for the Veterans Affairs (VA) Verification of Benefits (Form 26-8937) has reached “Candidate Recommendation” status, which means it has been thoroughly reviewed by a wide range of organizations and industry participants and is available for use across the industry. S.",
+      "summary": "A MISMO dataset mapping for the Veterans Affairs (VA) Verification of Benefits (Form 26-8937) has reached “Candidate Recommendation” status, which means it has been thoroughly reviewed by a wide range of organizations and industry participants and is available for use across the industry. MISMO developed this dataset in alignment with the transformation underway at the U.S.",
       "category": null,
       "version": null,
       "status": null,
@@ -241,7 +241,7 @@
     {
       "id": "appraisal-procurement-dataset-specification",
       "title": "Property and Valuation Services Procurement Dataset Specification",
-      "summary": "MISMO® published updates to the Property and Valuation Services Procurement Dataset Specification as Candidate Recommendation status on June 9, 2026. 6.",
+      "summary": "MISMO® published updates to the Property and Valuation Services Procurement Dataset Specification as Candidate Recommendation status on June 9, 2026.",
       "category": null,
       "version": null,
       "status": null,
@@ -276,7 +276,7 @@
     {
       "id": "industry-loan-application-dataset-ilad-2-5-0",
       "title": "Industry Loan Application Dataset (iLAD) 2.5.0",
-      "summary": "MISMO published the Industry Loan Application Dataset (iLAD) as Candidate Recommendation status on July 30, 2025. 0 enhances the capabilities and improves the effectiveness of the dataset, which is recognized as the industry standard for exchanging data related to the origination and underwriting of mortgage loans.",
+      "summary": "MISMO published the Industry Loan Application Dataset (iLAD) as Candidate Recommendation status on July 30, 2025. iLAD version 2.5.0 enhances the capabilities and improves the effectiveness of the dataset, which is recognized as the industry standard for exchanging data related to the origination and underwriting of mortgage loans.",
       "category": null,
       "version": null,
       "status": null,
@@ -311,7 +311,7 @@
     {
       "id": "mismo-version-3-6-1-reference-model",
       "title": "MISMO Version 3.6.1 Reference Model",
-      "summary": "1 of the Reference Model was published as candidate recommendation status in May of 2025.",
+      "summary": "Version 3.6.1 of the Reference Model was published as candidate recommendation status in May of 2025.",
       "category": null,
       "version": null,
       "status": null,
@@ -349,15 +349,15 @@
     },
     {
       "id": "mortgage-insurance-implementation-guide-for-v3-3-and-v3-3-1-aug-2018",
-      "title": "Mortgage Insurance Implementation Guide for V3.3 and V3.3.1 (AUG 2018)",
+      "title": "Mortgage Insurance Implementation Guide for V3.3 and V3.3.1",
       "summary": "The Mortgage Insurance Implementation Guide contains the Data Requirements necessary to facilitate the electronic ordering of Rate Quotes, MI Commitments, Document Packages and Querying for an MI Order Response. The \"How to Use the I-Guide\" worksheet within the guide provides a high level description of each transaction, the worksheets to use for request and response data, FAQ's, and other supporting information.",
       "category": null,
       "version": null,
       "status": null,
       "published": null,
-      "license": null,
+      "license": 4,
       "membersOnly": false,
-      "libraryUrl": null,
+      "libraryUrl": "https://www.mismo.org/viewdocument/mismo-33-331-mortgage-insurance",
       "externalUrl": null,
       "purchaseUrl": null,
       "files": [],
@@ -366,7 +366,7 @@
     {
       "id": "mismo-version-3-3-1",
       "title": "MISMO Version 3.3.1 Reference Model",
-      "summary": "1 is a Candidate Recommendation which means that it has been thoroughly reviewed by a wide range of organizations and industry participants and MISMO believes that it is ready for industry to use in implementations. 0.",
+      "summary": "MISMO Version 3.3.1 is a Candidate Recommendation which means that it has been thoroughly reviewed by a wide range of organizations and industry participants and MISMO believes that it is ready for industry to use in implementations. Version 3.3.1 is a minor release which contains only additive items that are considered backwardly compatible to Reference Model Version 3.3.0.",
       "category": null,
       "version": null,
       "status": null,
@@ -478,7 +478,7 @@
     {
       "id": "api-toolkit-1-1",
       "title": "API Toolkit 1.1",
-      "summary": "1 was released as FINAL in February of 2023. Several key updates were made to the toolkit so that it can continue to help facilitate rapid development of new products and applications across the mortgage industry.",
+      "summary": "The MISMO API (application programming interface) Toolkit 1.1 was released as FINAL in February of 2023. Several key updates were made to the toolkit so that it can continue to help facilitate rapid development of new products and applications across the mortgage industry.",
       "category": null,
       "version": null,
       "status": null,
@@ -565,7 +565,7 @@
     {
       "id": "v3-5-property-and-valuation-services-implementation-guide",
       "title": "V3.5 Property and Valuation Services Implementation Guide",
-      "summary": "5 Property and Valuation Services (PaVS) Implementation Guide (iGuide) in October of 2023 as Candidate Recommendation Status. 5).",
+      "summary": "MISMO published the Version 3.5 Property and Valuation Services (PaVS) Implementation Guide (iGuide) in October of 2023 as Candidate Recommendation Status.",
       "category": null,
       "version": null,
       "status": null,
@@ -627,7 +627,7 @@
     {
       "id": "mortgage-insurance-implementation-guide-for-v3-4",
       "title": "Mortgage Insurance Implementation Guide V3.4",
-      "summary": "4 as Candidate Recommendation status on June 30, 2026. 4 iGuide contains guidance for the data requirements necessary to facilitate the electronic ordering of MI rate quotes, MI commitments, contract underwrites, document packages and querying for MI order responses.",
+      "summary": "MISMO® published updates to the Mortgage Insurance Implementation Guide v3.4 as Candidate Recommendation status on June 30, 2026. The MI v3.4 iGuide contains guidance for the data requirements necessary to facilitate the electronic ordering of MI rate quotes, MI commitments, contract underwrites, document packages and querying for MI order responses.",
       "category": null,
       "version": null,
       "status": null,
@@ -763,7 +763,7 @@
     {
       "id": "mismo-version-3-4",
       "title": "MISMO Version 3.4 Reference Model",
-      "summary": "4 is in Recommendation status which is the highest possible maturity level for a MISMO standard. A Recommendation has been thoroughly reviewed and implemented by a wide range of organizations and industry participants.",
+      "summary": "MISMO Ve rsion 3.4 is in Recommendation status which is the highest possible maturity level for a MISMO standard. A Recommendation has been thoroughly reviewed and implemented by a wide range of organizations and industry participants.",
       "category": null,
       "version": null,
       "status": null,
@@ -1000,7 +1000,7 @@
     {
       "id": "mismo-version-3-6",
       "title": "MISMO Version 3.6 Reference Model",
-      "summary": "6 of the Reference Model was published as candidate recommendation status in May of 2025. This version includes a corresponding YAML file set that conforms to the OpenAPI specification; the logical data dictionary (LDD) which provides a business centric view of the model; and the MISMO SMART Doc® standards which provide formats for electronic formatting of documents; and more.",
+      "summary": "Version 3.6 of the Reference Model was published as candidate recommendation status in May of 2025. This version includes a corresponding YAML file set that conforms to the OpenAPI specification; the logical data dictionary (LDD) which provides a business centric view of the model; and the MISMO SMART Doc® standards which provide formats for electronic formatting of documents; and more.",
       "category": null,
       "version": null,
       "status": null,
@@ -1122,7 +1122,7 @@
     {
       "id": "industry-loan-application-dataset-ilad-2-2-0",
       "title": "Industry Loan Application Dataset (iLAD) 2.2.0",
-      "summary": "0 was approved for candidate recommendation status in August 2022. ), many of which leverage the existing iLAD file.",
+      "summary": "The Industry Loan Application Dataset (iLAD) v2.2.0 was approved for candidate recommendation status in August 2022. This work product is intended for stakeholders in the mortgage industry that are involved in the origination and/or underwriting of mortgage loans (lenders, loan origination system providers, GSEs, etc.), many of which leverage the existing iLAD file.",
       "category": null,
       "version": null,
       "status": null,
@@ -1191,7 +1191,7 @@
     {
       "id": "mismo-version-3-2",
       "title": "MISMO Version 3.2 Reference Model",
-      "summary": "2 is currently in Candidate Recommendation status which means that it has been thoroughly reviewed by a wide range of organizations and industry participants and MISMO believes that it is ready for industry to use in implementations.",
+      "summary": "MISMO Version 3.2 is currently in Candidate Recommendation status which means that it has been thoroughly reviewed by a wide range of organizations and industry participants and MISMO believes that it is ready for industry to use in implementations.",
       "category": null,
       "version": null,
       "status": null,
@@ -1243,7 +1243,7 @@
     {
       "id": "mismo-version-3-3",
       "title": "MISMO Version 3.3 Reference Model",
-      "summary": "3 is in Recommendation status which is the highest possible maturity level for a MISMO standard. A Recommendation has been thoroughly reviewed and implemented by a wide range of organizations and industry participants.",
+      "summary": "MISMO Version 3.3 is in Recommendation status which is the highest possible maturity level for a MISMO standard. A Recommendation has been thoroughly reviewed and implemented by a wide range of organizations and industry participants.",
       "category": null,
       "version": null,
       "status": null,
@@ -1301,7 +1301,7 @@
     {
       "id": "industry-loan-application-dataset-ilad-2-4-0",
       "title": "Industry Loan Application Dataset (iLAD) 2.4.0",
-      "summary": "0 extends the capabilities and increases the effectiveness of the dataset, which serves as the industry’s standard method for exchanging data associated with originating and underwriting mortgage loans.",
+      "summary": "The iLAD version 2.4.0 extends the capabilities and increases the effectiveness of the dataset, which serves as the industry’s standard method for exchanging data associated with originating and underwriting mortgage loans.",
       "category": null,
       "version": null,
       "status": null,
@@ -1371,7 +1371,7 @@
     {
       "id": "industry-loan-application-dataset-ilad-2-1-0",
       "title": "Industry Loan Application Dataset (iLAD) 2.1.0",
-      "summary": "0 Specification was approved as Candidate Recommendation Status in May of 2022. The iLAD specification is an integration of several existing industry specifications that are destined for future use in the mortgage industry for underwriting and origination functions.",
+      "summary": "iLAD 2.1.0 Specification was approved as Candidate Recommendation Status in May of 2022. The iLAD specification is an integration of several existing industry specifications that are destined for future use in the mortgage industry for underwriting and origination functions.",
       "category": null,
       "version": null,
       "status": null,
@@ -1492,7 +1492,7 @@
     {
       "id": "mismo-engineering-guideline-meg-25",
       "title": "MISMO Engineering Guideline (MEG) 0025: Extending a Standard MISMO XML Schema, V2.0",
-      "summary": "MEG 0025 wasapproved as final in September of 2025. x XML schema.",
+      "summary": "MEG 0025 wasapproved as final in September of 2025. Updates to this MEG include: Updated section 25.8 with additional guidance for implementing enumerated values MEG 0025 provides guidance on how to extend the MISMO Version 3.x XML schema.",
       "category": null,
       "version": null,
       "status": null,
@@ -1630,7 +1630,7 @@
     {
       "id": "smart-doc-1-02-specification-x142958",
       "title": "SMART Doc 1.02 Specification",
-      "summary": "The SMART Doc® Specification is a technical framework for representing documents in an electronic format. 02is used industry wide as the base for eNotes.",
+      "summary": "The SMART Doc® Specification is a technical framework for representing documents in an electronic format. The SMART Doc® v1.02is used industry wide as the base for eNotes.",
       "category": null,
       "version": null,
       "status": null,
@@ -1653,7 +1653,7 @@
     {
       "id": "industry-loan-application-dataset-ilad-2-3-0",
       "title": "Industry Loan Application Dataset (iLAD) 2.3.0",
-      "summary": "0 extends the capabilities and increases the effectiveness of this dataset which serves as the industry’s standard method for exchanging data associated with originating and underwriting mortgage loans. The 30-day public comment period for this dataset runs through April 20th, 2023.",
+      "summary": "The iLAD version 2.3.0 extends the capabilities and increases the effectiveness of this dataset which serves as the industry’s standard method for exchanging data associated with originating and underwriting mortgage loans. The 30-day public comment period for this dataset runs through April 20th, 2023.",
       "category": null,
       "version": null,
       "status": null,
@@ -1721,7 +1721,7 @@
     {
       "id": "mismo-engineering-guideline-meg-6",
       "title": "MISMO Engineering Guideline (MEG) 0006",
-      "summary": "x data standards. MISMO's Architecture Workgroup has recently made adjustments to MEG 0006 to change the wording to reflect that this MEG applies to the various representations of the model instead of just the XML Schema.",
+      "summary": "MISMO Engineering Guideline (MEG) 0006 provides guidance for the versioning and release schedule for the MISMO Version 3.x data standards. MISMO's Architecture Workgroup has recently made adjustments to MEG 0006 to change the wording to reflect that this MEG applies to the various representations of the model instead of just the XML Schema.",
       "category": null,
       "version": null,
       "status": null,
@@ -1767,7 +1767,7 @@
     {
       "id": "blockchain-white-paper",
       "title": "Blockchain White Paper",
-      "summary": "” The white paper outlines findings describing how blockchain technology could enhance the way mortgages are originated, serviced, sold, and traded while improving efficiency, enabling transparency, and increasing trust among market participants.",
+      "summary": "MISMO published a white paper entitled, “Blockchain in the Mortgage Industry.” The white paper outlines findings describing how blockchain technology could enhance the way mortgages are originated, serviced, sold, and traded while improving efficiency, enabling transparency, and increasing trust among market participants.",
       "category": null,
       "version": null,
       "status": null,
@@ -1825,7 +1825,7 @@
     {
       "id": "mismo-version-3-6-3-reference-model",
       "title": "MISMO Version 3.6.3 Reference Model",
-      "summary": "3 Reference Model as Candidate Recommendation status on June 2, 2026.",
+      "summary": "MISMO® published the MISMO Version 3.6.3 Reference Model as Candidate Recommendation status on June 2, 2026.",
       "category": null,
       "version": null,
       "status": null,
@@ -2032,7 +2032,7 @@
     {
       "id": "mismo-reference-model-version-3-5-yaml-files",
       "title": "MISMO Reference Model Version 3.5 YAML Files",
-      "summary": "5 YAML Files has reached “Candidate Recommendation” status, which means that it has been thoroughly reviewed by a wide range of organizations and industry participants and is available for use across the industry.",
+      "summary": "MISMO announced that an updated set of Reference Model Version 3.5 YAML Files has reached “Candidate Recommendation” status, which means that it has been thoroughly reviewed by a wide range of organizations and industry participants and is available for use across the industry.",
       "category": null,
       "version": null,
       "status": null,
@@ -2117,7 +2117,7 @@
     {
       "id": "mortgage-compliance-dataset-mcd",
       "title": "Mortgage Compliance Dataset (MCD)",
-      "summary": "0 as Candidate Recommendation status on December 11, 2025. 0 of the MISMO Reference Model.",
+      "summary": "MISMO ® published the MISMO® Mortgage Compliance Dataset (MCD) Version 2.0 as Candidate Recommendation status on December 11, 2025. The MCD specification replaces the fixed format Loan Examination File (LEF) with an XML schema-based version tied to version 3.6.0 of the MISMO Reference Model.",
       "category": null,
       "version": null,
       "status": null,
@@ -2665,7 +2665,7 @@
     {
       "id": "property-and-valuation-services-implementation-guide",
       "title": "Property and Valuation Services Implementation Guide",
-      "summary": "0 Property and Valuation Services (PaVS) Implementation Guide (iGuide) as Final. 6 XML Reference Model underlies the Federal Housing Finance Agency’s Uniform Mortgage Data Program (UMDP) new version of the Uniform Appraisal Dataset (UAD).",
+      "summary": "MISMO has published the Version 3.6.0 Property and Valuation Services (PaVS) Implementation Guide (iGuide) as Final. The i-guide is a key reference for implementers in the property information and valuation services sector as MISMO Version 3.6 XML Reference Model underlies the Federal Housing Finance Agency’s Uniform Mortgage Data Program (UMDP) new version of the Uniform Appraisal Dataset (UAD).",
       "category": null,
       "version": null,
       "status": null,
@@ -2746,7 +2746,7 @@
     {
       "id": "mismo-version-3-6-2-reference-model",
       "title": "MISMO Version 3.6.2 Reference Model",
-      "summary": "2 of the Reference Model was published as Candidate Recommendation status on October 29, 2025. 2 of the MISMO Reference Model is a minor release with additive changes only and therefore it is expected that existing technical solutions require no change.",
+      "summary": "Version 3.6.2 of the Reference Model was published as Candidate Recommendation status on October 29, 2025. Version 3.6.2 of the MISMO Reference Model is a minor release with additive changes only and therefore it is expected that existing technical solutions require no change.",
       "category": null,
       "version": null,
       "status": null,
@@ -2769,7 +2769,7 @@
     {
       "id": "industry-loan-application-dataset-ilad",
       "title": "Industry Loan Application Dataset (iLAD) 2.0.1",
-      "summary": "MISMO's Industry Loan Application Dataset (iLAD) is in \"Candidate Recommendation\" (CR) status which means that it has been thoroughly reviewed by a wide range of organizations and industry participants and is available for use. 2 file.",
+      "summary": "MISMO's Industry Loan Application Dataset (iLAD) is in \"Candidate Recommendation\" (CR) status which means that it has been thoroughly reviewed by a wide range of organizations and industry participants and is available for use. The iLAD is a compendium of data points included in URLA, the Government Sponsored Enterprises' (GSEs) new Automated Underwriting System (AUS) interfaces, and the existing Fannie Mae 3.2 file.",
       "category": null,
       "version": null,
       "status": null,
@@ -2798,7 +2798,7 @@
     {
       "id": "mismo-version-3-5",
       "title": "MISMO Version 3.5 Reference Model",
-      "summary": "5 is in Candidate Recommendation status which means that it has been thoroughly reviewed by a wide range of organizations and industry participants and MISMO believes that it is ready for industry to use in implementations.",
+      "summary": "MISMO Version 3.5 is in Candidate Recommendation status which means that it has been thoroughly reviewed by a wide range of organizations and industry participants and MISMO believes that it is ready for industry to use in implementations.",
       "category": null,
       "version": null,
       "status": null,
@@ -3274,7 +3274,7 @@
     {
       "id": "adverse-action-notice-dataset",
       "title": "Adverse Action Notice Dataset",
-      "summary": "This sample Adverse Action Notice, titled Statement of Credit Denial, Termination, or Change Form and accompanying XML file, delivers crucial document data mapping capabilities that lenders can use when reporting adverse credit decisions. 6 extension).",
+      "summary": "This sample Adverse Action Notice, titled Statement of Credit Denial, Termination, or Change Form and accompanying XML file, delivers crucial document data mapping capabilities that lenders can use when reporting adverse credit decisions.",
       "category": null,
       "version": null,
       "status": null,
@@ -3297,7 +3297,7 @@
     {
       "id": "decision-modeling-cop-white-paper-ability-to-repay",
       "title": "Ability to Repay White Paper",
-      "summary": "The Ability to Repay Decision Model and Notation white paper demonstrates how decision modeling and notation language can be used with the MISMO Logical Data Model (LDM). 5 Reference Model.",
+      "summary": "The Ability to Repay Decision Model and Notation white paper demonstrates how decision modeling and notation language can be used with the MISMO Logical Data Model (LDM). The white paper presents a use case for decision modeling using Regulation Z data points and the MISMO Version 3.5 Reference Model.",
       "category": null,
       "version": null,
       "status": null,
@@ -3372,7 +3372,7 @@
     {
       "id": "credit-reporting-forbearance-guide",
       "title": "Credit Reporting Forbearance Guide",
-      "summary": "5. The Credit Reporting Forbearance Guide was approved as FINAL in June of 2022.",
+      "summary": "MISMO's guide and sample credit response are designed to help industry professionals report on loans that have been in or are in forbearance using MISMO Reference Models v3.4 and v3.5. The Credit Reporting Forbearance Guide was approved as FINAL in June of 2022.",
       "category": null,
       "version": null,
       "status": null,
@@ -3470,7 +3470,7 @@
     {
       "id": "mismo-version-3-1",
       "title": "MISMO Version 3.1 Reference Model",
-      "summary": "1 is in Recommendation status which is the highest possible maturity level for a MISMO standard. A Recommendation has been thoroughly reviewed and implemented by a wide range of organizations and industry participants.",
+      "summary": "MISMO Version 3.1 is in Recommendation status which is the highest possible maturity level for a MISMO standard. A Recommendation has been thoroughly reviewed and implemented by a wide range of organizations and industry participants.",
       "category": null,
       "version": null,
       "status": null,
@@ -3539,7 +3539,7 @@
     {
       "id": "entity-relationship-model",
       "title": "Entity Relationship Model",
-      "summary": "MISMO's Entity Relationship Model (ER Model) supports database engineering and general data management functions, resulting in quicker application development and deployment schedules, while helping to reduce errors that result from proprietary implementations. 5 of the overall MISMO Logical Data Model , and is designed to improve how mortgage organizations store and manage data built using MISMO standards.",
+      "summary": "MISMO's Entity Relationship Model (ER Model) supports database engineering and general data management functions, resulting in quicker application development and deployment schedules, while helping to reduce errors that result from proprietary implementations.",
       "category": null,
       "version": null,
       "status": null,
@@ -3555,7 +3555,7 @@
     {
       "id": "meg-45",
       "title": "MISMO Engineering Guideline (MEG) 0045",
-      "summary": "0 Minor edits for clarity MEG 0045 creates a representation of the MISMO data objects and structures in a format that is easily consumed by API tools. Use of these representations will allow API developers to utilize the MISMO data standard more readily and will also facilitate the use of the MISMO data standard in JSON messages.",
+      "summary": "MEG 0045 Representing MISMO Data Structures as Objects in an API Environment has been updated to include the following modifications: Addition of directions for enclosing enumeration values in double quotes Updated the metadata values to correct data types that are invalid in Open API 3.0 Minor edits for clarity MEG 0045 creates a representation of the MISMO data objects and structures in a format that is easily cons",
       "category": null,
       "version": null,
       "status": null,
@@ -3578,7 +3578,7 @@
     {
       "id": "housing-counseling-dataset-specification",
       "title": "Housing Counseling Dataset Specification",
-      "summary": "1 was published as Candidate Recommendation status on March 26, 2026. The Housing Counseling Dataset establishes a framework for exchanging information about housing counseling sessions, borrower participation, and outcomes.",
+      "summary": "The Housing Counseling Dataset Specification v1.1 was published as Candidate Recommendation status on March 26, 2026. The Housing Counseling Dataset establishes a framework for exchanging information about housing counseling sessions, borrower participation, and outcomes.",
       "category": null,
       "version": null,
       "status": null,
@@ -3624,7 +3624,7 @@
     {
       "id": "api-toolkit",
       "title": "API Toolkit 1.0",
-      "summary": "The MISMO API (application programming interface) Toolkit, which is available to MISMO Members, will help facilitate rapid development of new products and applications across the mortgage industry. org .",
+      "summary": "The MISMO API (application programming interface) Toolkit, which is available to MISMO Members, will help facilitate rapid development of new products and applications across the mortgage industry. For additional information, contact us at info@mismo.org .",
       "category": null,
       "version": null,
       "status": null,
