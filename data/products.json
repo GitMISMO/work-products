@@ -2978,24 +2978,18 @@
     },
     {
       "id": "automated-valuation-model-common-confidence-score-standard-and-guidance",
-      "title": "Automated Valuation Models",
-      "summary": "Testing Guidance and Best Practices MISMO® announced the release of the Automated Valuation Model Testing Guidance and Best Practices as Final on September 29, 2026. Common Confidence Score Standard and Guidance MISMO® published the Automated Valuation Model Common Confidence Score Standard and Guidance as Recommendation status on April 21, 2026.",
+      "title": "Automated Valuation Model Common Confidence Score Standard and Guidance",
+      "summary": "MISMO® published the Automated Valuation Model Common Confidence Score Standard and Guidance as Recommendation status on April 21, 2026.",
       "category": null,
       "version": null,
       "status": null,
       "published": null,
       "license": 2,
       "membersOnly": false,
-      "libraryUrl": "https://www.mismo.org/viewdocument/automated-valuation-model-testing-guidance-and-best-practices",
+      "libraryUrl": null,
       "externalUrl": null,
       "purchaseUrl": null,
       "files": [
-        {
-          "name": "AVM Testing Guidance and Best Practices 09.28.26 Final (DOCX)",
-          "file": "avm-testing-guidance-and-best-practices-09-28-26-final-2cdf695440.docx",
-          "url": "https://resources.mismo.org/work-products/files/automated-valuation-model-common-confidence-score-standard-and-guidance/avm-testing-guidance-and-best-practices-09-28-26-final-2cdf695440.docx",
-          "bytes": 217346
-        },
         {
           "name": "WR2024 18 AVM Common Confidence Score Standard and Guidance v.CR 070125 (DOCX)",
           "file": "wr2024-18-avm-common-confidence-score-standard-and-guidance--5f72681c03.docx",
@@ -3728,6 +3722,29 @@
           "file": "closing-instructions-internal-use-only-bundle-d2e4942580.zip",
           "url": "https://resources.mismo.org/work-products/files/closing-instructions-internal/closing-instructions-internal-use-only-bundle-d2e4942580.zip",
           "bytes": 1511671
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "avm-testing-guidance",
+      "title": "Automated Valuation Model Testing Guidance and Best Practices",
+      "summary": "MISMO® announced the release of the Automated Valuation Model Testing Guidance and Best Practices as Final on September 29, 2026.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 2,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/automated-valuation-model-testing-guidance-and-best-practices",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "AVM Testing Guidance and Best Practices 09.28.26 Final (DOCX)",
+          "file": "avm-testing-guidance-and-best-practices-09-28-26-final-2cdf695440.docx",
+          "url": "https://resources.mismo.org/work-products/files/avm-testing-guidance/avm-testing-guidance-and-best-practices-09-28-26-final-2cdf695440.docx",
+          "bytes": 217346
         }
       ],
       "aliases": []
