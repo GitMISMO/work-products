@@ -1,0 +1,34 @@
+name: Work Products
+# First load (run by hand once) copies the website's current files here; every change to data/ rebuilds catalog.json.
+on:
+  workflow_dispatch:
+    inputs:
+      firstLoad:
+        description: Copy the website's current list and files (first load)
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths: ['data/**']
+permissions:
+  contents: write
+concurrency: { group: work-products, cancel-in-progress: false }
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - name: First load
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.firstLoad }}
+        run: node .github/wp/first-load.mjs
+      - name: Build catalog.json
+        run: node .github/wp/build-catalog.mjs
+      - name: Save
+        run: |
+          git config user.name "MMS Work Products"; git config user.email "workrequests@mismo.org"
+          git add -A files data catalog.json report.json 2>/dev/null || git add -A
+          if git diff --cached --quiet; then echo "Nothing to save"; exit 0; fi
+          git commit -q -m "Work products: catalog.json rebuilt"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && exit 0; sleep 5; done; exit 1
