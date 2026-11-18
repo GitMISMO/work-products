@@ -360,7 +360,14 @@
       "libraryUrl": "https://www.mismo.org/viewdocument/mismo-33-331-mortgage-insurance",
       "externalUrl": null,
       "purchaseUrl": null,
-      "files": [],
+      "files": [
+        {
+          "name": "MI Implementation Guide V3.3 and V3.3.1, Feb 22, 2022 (XLSX)",
+          "file": "mismo-mi-implementation-guide-version-3-3-and-3-3-1-february-22-2022.xlsx",
+          "url": "https://resources.mismo.org/work-products/files/mortgage-insurance-implementation-guide-for-v3-3-and-v3-3-1-aug-2018/mismo-mi-implementation-guide-version-3-3-and-3-3-1-february-22-2022.xlsx",
+          "bytes": 1434947
+        }
+      ],
       "aliases": []
     },
     {
@@ -2986,7 +2993,7 @@
       "published": null,
       "license": 2,
       "membersOnly": false,
-      "libraryUrl": null,
+      "libraryUrl": "https://www.mismo.org/viewdocument/final-work-product-common-confidence-score",
       "externalUrl": null,
       "purchaseUrl": null,
       "files": [
