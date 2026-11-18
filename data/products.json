@@ -1,0 +1,3736 @@
+{
+  "source": "MISMO Manufacturing System",
+  "loadedFrom": "https://higherlogicdownload.s3.amazonaws.com/MISMO/b0af7660-1193-44cf-ad90-4073559f7527/UploadedImages/Standards_Downloads/mm-catalog-c04028a0b1.js",
+  "products": [
+    {
+      "id": "va-form-26-1805-va-request-for-determination-of-reasonable-value",
+      "title": "VA Form 26-1805 (VA Request for Determination of Reasonable Value)",
+      "summary": "MISMO® announced the release of the VA Form 26-1805 (VA Request for Determination of Reasonable Value) dataset for a 30-day public comment period, open through December 3, 2026. It is part of MISMO’s VA Documents to Data work.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 1,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/va-form-26-1805-va-request-for-determination-of-reasonable-value",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MISMO VA Form 26-1805 Dataset Version 1.0 10.16.26 CP (XLSX)",
+          "file": "mismo-va-form-26-1805-dataset-version-1-0-10-16-26-cp-165c5a49e2.xlsx",
+          "url": "https://resources.mismo.org/work-products/files/va-form-26-1805-va-request-for-determination-of-reasonable-value/mismo-va-form-26-1805-dataset-version-1-0-10-16-26-cp-165c5a49e2.xlsx",
+          "bytes": 1606189
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "loan-estimate-mapping",
+      "title": "Revised Loan Estimate Mapping",
+      "summary": "MISMO® announced the release of the revised Loan Estimate Mapping for a 30-day public comment period, open through December 3, 2026. The public comment period allows those who participated in the proposal at least 30 days’ notice prior to final release to review and disclose any applicable Patent Rights (as defined by MISMO’s 2018 Intellectual Property Rights Policy).",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 1,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/loan-estimate-mapping",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Revised Loan Estimate Mapping CP 10.08.26 (ZIP)",
+          "file": "revised-loan-estimate-mapping-cp-181db57004.zip",
+          "url": "https://resources.mismo.org/work-products/files/loan-estimate-mapping/revised-loan-estimate-mapping-cp-181db57004.zip",
+          "bytes": 212004
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "title-order-dataset-specification-part-b",
+      "title": "Title and Closing Order Dataset Specification",
+      "summary": "MISMO® announced the release of the Title and Closing Order Dataset Specification for a 30-day public comment period, open through December 3, 2026. It was developed by the Title and Closing Documents to Data Development Workgroup to give the industry a consistent way to exchange title and closing order data.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 1,
+      "membersOnly": false,
+      "libraryUrl": null,
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Title and Closing Dataset Specification 11.5.2026, with Order Dataset CP (ZIP)",
+          "file": "title-and-closing-dataset-specification-11-5-2026-cp-9a81b6de3a.zip",
+          "url": "https://resources.mismo.org/work-products/files/title-order-dataset-specification-part-b/title-and-closing-dataset-specification-11-5-2026-cp-9a81b6de3a.zip",
+          "bytes": 18451119
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mortgage-insurance-activation-api",
+      "title": "Mortgage Insurance Activation API",
+      "summary": "MISMO published the Mortgage Insurance (MI) Activation API Implementation Guide (iGuide) and sample files as a Candidate Recommendation in July of 2025.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/mi-activation-api-comment-version",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MISMO 3.5 JSON MI Activation API CR (ZIP)",
+          "file": "mismo-3-5-json-mi-activation-api-cr-57e20671ef.zip",
+          "url": "https://resources.mismo.org/work-products/files/mortgage-insurance-activation-api/mismo-3-5-json-mi-activation-api-cr-57e20671ef.zip",
+          "bytes": 68186
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-version-3-0",
+      "title": "MISMO Version 3.0 Reference Model",
+      "summary": "0 is in Recommendation status which is the highest possible maturity level for a MISMO standard. A Recommendation has been thoroughly reviewed and implemented by a wide range of organizations and industry participants.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-30-resident",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Reference Model v3 0 CR 2010-12 B263-14 20101203 (ZIP)",
+          "file": "reference-model-v3-0-cr-2010-12-b263-14-20101203-eab70a8a72.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-0/reference-model-v3-0-cr-2010-12-b263-14-20101203-eab70a8a72.zip",
+          "bytes": 243014
+        },
+        {
+          "name": "Reference Model v3 0 CR 2010-12 B263-14 20101203 (ZIP)",
+          "file": "reference-model-v3-0-cr-2010-12-b263-14-20101203-eab70a8a72.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-0/reference-model-v3-0-cr-2010-12-b263-14-20101203-eab70a8a72.zip",
+          "bytes": 243014
+        },
+        {
+          "name": "V3 CR 2010-05 LDD B263-14 2010-12-03 (ZIP)",
+          "file": "v3-cr-2010-05-ldd-b263-14-2010-12-03-63df9c6ffc.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-0/v3-cr-2010-05-ldd-b263-14-2010-12-03-63df9c6ffc.zip",
+          "bytes": 937417
+        },
+        {
+          "name": "V3 CR 2010-05 LDD B263-14 2010-12-03 (ZIP)",
+          "file": "v3-cr-2010-05-ldd-b263-14-2010-12-03-63df9c6ffc.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-0/v3-cr-2010-05-ldd-b263-14-2010-12-03-63df9c6ffc.zip",
+          "bytes": 937417
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "remote-online-notarization-ron-standards-v1",
+      "title": "Remote Online Notarization (RON) Standards V1",
+      "summary": "MISMO released version 1 of the Remote Online Notarization Standards for Candidate Recommendation Status in September of 2019. This document outlines technical and procedural guidance and establishes underlying principles that should be considered as organizations move towards implementation of Remote Online Notarization.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/remote-online-notarization-ron-st-1",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Remote Online Notarization Standards - FINAL Candidate Recommendation (CR) Commercial Use Version (PDF)",
+          "file": "remote-online-notarization-standards-final-candidate-recomme-3c38a99311.pdf",
+          "url": "https://resources.mismo.org/work-products/files/remote-online-notarization-ron-standards-v1/remote-online-notarization-standards-final-candidate-recomme-3c38a99311.pdf",
+          "bytes": 423606
+        },
+        {
+          "name": "Remote Online Notarization Standards - FINAL Candidate Recommendation (CR) Commercial Use Version (PDF)",
+          "file": "remote-online-notarization-standards-final-candidate-recomme-3c38a99311.pdf",
+          "url": "https://resources.mismo.org/work-products/files/remote-online-notarization-ron-standards-v1/remote-online-notarization-standards-final-candidate-recomme-3c38a99311.pdf",
+          "bytes": 423606
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "va-form-26-8937-verification-of-va-benefits",
+      "title": "VA Form 26-8937 Verification of VA Benefits",
+      "summary": "A MISMO dataset mapping for the Veterans Affairs (VA) Verification of Benefits (Form 26-8937) has reached “Candidate Recommendation” status, which means it has been thoroughly reviewed by a wide range of organizations and industry participants and is available for use across the industry. S.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 1,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/va-form-26-8937",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Comment Period MISMO iLAD 2 3 0 (ZIP)",
+          "file": "comment-period-mismo-ilad-2-3-0-f4e70b8cc7.zip",
+          "url": "https://resources.mismo.org/work-products/files/va-form-26-8937-verification-of-va-benefits/comment-period-mismo-ilad-2-3-0-f4e70b8cc7.zip",
+          "bytes": 1179516
+        },
+        {
+          "name": "VA Verification of Benefits Form 26 8937 FINAL (ZIP)",
+          "file": "va-verification-of-benefits-form-26-8937-final-c8a8c17426.zip",
+          "url": "https://resources.mismo.org/work-products/files/va-form-26-8937-verification-of-va-benefits/va-verification-of-benefits-form-26-8937-final-c8a8c17426.zip",
+          "bytes": 2343113
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "credit-reporting-implementation-guide-for-v3-5",
+      "title": "Credit Reporting Implementation Guide for V3.5 with Supplemental Documentation",
+      "summary": "The purpose of the Credit Reporting Implementation Guide is to assist individuals who are implementing the MISMO Credit Reporting standards for both credit request and credit response transactions. The guide covers the credit request and credit response container by container.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": null,
+      "membersOnly": true,
+      "libraryUrl": "https://www.mismo.org/viewdocument/credit-reporting-implementation-gui",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [],
+      "aliases": []
+    },
+    {
+      "id": "mismo-engineering-guideline-meg-0042",
+      "title": "MISMO Engineering Guideline (MEG) 0042",
+      "summary": "MISMO Engineering Guideline (MEG) 0042 recommends that all MISMO Version 3 documents use PDF as the single format for views to ensure industry-wide document interoperability. The MISMO Version 3 SMART Doc ® PDF implementation guide provides details on use and implementation of these views MEG 0042 was approved as final in February of 2022.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 1,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-1-mismo-en",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MEG 0016 v1.3 (DOCX)",
+          "file": "meg-0016-v1-3-66fd20d789.docx",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guideline-meg-0042/meg-0016-v1-3-66fd20d789.docx",
+          "bytes": 51072
+        },
+        {
+          "name": "MEG 0042 v2.0 FINAL Feb2022 (PDF)",
+          "file": "meg-0042-v2-0-final-feb2022-c9aae8c210.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guideline-meg-0042/meg-0042-v2-0-final-feb2022-c9aae8c210.pdf",
+          "bytes": 148482
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "appraisal-procurement-dataset-specification",
+      "title": "Property and Valuation Services Procurement Dataset Specification",
+      "summary": "MISMO® published updates to the Property and Valuation Services Procurement Dataset Specification as Candidate Recommendation status on June 9, 2026. 6.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/appraisal-procurement-dataset-speci-1",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MISMO iLAD industry Loan Application Dataset version 2.4.0 04112023 CR (ZIP)",
+          "file": "mismo-ilad-industry-loan-application-dataset-version-2-4-0-0-05b7bb5a38.zip",
+          "url": "https://resources.mismo.org/work-products/files/appraisal-procurement-dataset-specification/mismo-ilad-industry-loan-application-dataset-version-2-4-0-0-05b7bb5a38.zip",
+          "bytes": 1324468
+        },
+        {
+          "name": "Comment Period MISMO iLAD 2 3 0 (ZIP)",
+          "file": "comment-period-mismo-ilad-2-3-0-f4e70b8cc7.zip",
+          "url": "https://resources.mismo.org/work-products/files/appraisal-procurement-dataset-specification/comment-period-mismo-ilad-2-3-0-f4e70b8cc7.zip",
+          "bytes": 1179516
+        },
+        {
+          "name": "PaVS Appraisal Procurement Dataset Specification v1.2 04.27.26 (XLSX)",
+          "file": "pavs-appraisal-procurement-dataset-specification-v1-2-04-27--3aabb465ba.xlsx",
+          "url": "https://resources.mismo.org/work-products/files/appraisal-procurement-dataset-specification/pavs-appraisal-procurement-dataset-specification-v1-2-04-27--3aabb465ba.xlsx",
+          "bytes": 1611836
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "industry-loan-application-dataset-ilad-2-5-0",
+      "title": "Industry Loan Application Dataset (iLAD) 2.5.0",
+      "summary": "MISMO published the Industry Loan Application Dataset (iLAD) as Candidate Recommendation status on July 30, 2025. 0 enhances the capabilities and improves the effectiveness of the dataset, which is recognized as the industry standard for exchanging data related to the origination and underwriting of mortgage loans.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/ilad-250",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MISMO iLAD industry Loan Application Dataset version 2.4.0 04112023 CR (ZIP)",
+          "file": "mismo-ilad-industry-loan-application-dataset-version-2-4-0-0-05b7bb5a38.zip",
+          "url": "https://resources.mismo.org/work-products/files/industry-loan-application-dataset-ilad-2-5-0/mismo-ilad-industry-loan-application-dataset-version-2-4-0-0-05b7bb5a38.zip",
+          "bytes": 1324468
+        },
+        {
+          "name": "Comment Period MISMO iLAD 2 3 0 (ZIP)",
+          "file": "comment-period-mismo-ilad-2-3-0-f4e70b8cc7.zip",
+          "url": "https://resources.mismo.org/work-products/files/industry-loan-application-dataset-ilad-2-5-0/comment-period-mismo-ilad-2-3-0-f4e70b8cc7.zip",
+          "bytes": 1179516
+        },
+        {
+          "name": "MISMO iLAD V2 5 0 CR (ZIP)",
+          "file": "mismo-ilad-v2-5-0-cr-27e174778e.zip",
+          "url": "https://resources.mismo.org/work-products/files/industry-loan-application-dataset-ilad-2-5-0/mismo-ilad-v2-5-0-cr-27e174778e.zip",
+          "bytes": 1945509
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-version-3-6-1-reference-model",
+      "title": "MISMO Version 3.6.1 Reference Model",
+      "summary": "1 of the Reference Model was published as candidate recommendation status in May of 2025.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 1,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-36-package",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MISMO Reference Model v3.6.1 - CR Non-Member (ZIP)",
+          "file": "mismo-reference-model-v3-6-1-cr-non-member-1b3d7ede52.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-6-1-reference-model/mismo-reference-model-v3-6-1-cr-non-member-1b3d7ede52.zip",
+          "bytes": 15287791
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-frame",
+      "title": "MISMO FRAME",
+      "summary": "An Industry Framework for Responsible Artificial Intelligence in Mortgage Ecosystems The MISMO Framework for Responsible AI in Mortgage Ecosystems (FRAME) provides guidance for organizations that design, develop, deploy, or use AI systems in residential mortgage lending and servicing. Together, this framework document and the five supporting implementation artifacts make up the full MISMO FRAME package.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": null,
+      "membersOnly": true,
+      "libraryUrl": "https://www.mismo.org/viewdocument/mismo-frame-artifacts",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [],
+      "aliases": []
+    },
+    {
+      "id": "mortgage-insurance-implementation-guide-for-v3-3-and-v3-3-1-aug-2018",
+      "title": "Mortgage Insurance Implementation Guide for V3.3 and V3.3.1 (AUG 2018)",
+      "summary": "The Mortgage Insurance Implementation Guide contains the Data Requirements necessary to facilitate the electronic ordering of Rate Quotes, MI Commitments, Document Packages and Querying for an MI Order Response. The \"How to Use the I-Guide\" worksheet within the guide provides a high level description of each transaction, the worksheets to use for request and response data, FAQ's, and other supporting information.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": null,
+      "membersOnly": false,
+      "libraryUrl": null,
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [],
+      "aliases": []
+    },
+    {
+      "id": "mismo-version-3-3-1",
+      "title": "MISMO Version 3.3.1 Reference Model",
+      "summary": "1 is a Candidate Recommendation which means that it has been thoroughly reviewed by a wide range of organizations and industry participants and MISMO believes that it is ready for industry to use in implementations. 0.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-331-refere",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "V3.3.1B307 CR 2015-01-06 PUBLICATION (ZIP)",
+          "file": "v3-3-1b307-cr-2015-01-06-publication-5e91aa1484.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-3-1/v3-3-1b307-cr-2015-01-06-publication-5e91aa1484.zip",
+          "bytes": 11727766
+        },
+        {
+          "name": "V3.3.1B307 CR 2015-01-06 LDD (ZIP)",
+          "file": "v3-3-1b307-cr-2015-01-06-ldd-4ff8c55500.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-3-1/v3-3-1b307-cr-2015-01-06-ldd-4ff8c55500.zip",
+          "bytes": 2211490
+        },
+        {
+          "name": "MISMO v3.3.1 ReleaseNotes (DOC)",
+          "file": "mismo-v3-3-1-releasenotes-ad243836d1.doc",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-3-1/mismo-v3-3-1-releasenotes-ad243836d1.doc",
+          "bytes": 3641344
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-version-1",
+      "title": "Version 1 Residential Specifications",
+      "summary": "All of MISMO's Version 1 residential specifications are in candidate recommendation status. However, they are no longer maintained or updated.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-1-comprehensive-documents",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "AUS v1 0 (ZIP)",
+          "file": "aus-v1-0-52fd3e0425.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-1/aus-v1-0-52fd3e0425.zip",
+          "bytes": 238626
+        },
+        {
+          "name": "CREDIT REPORTING v1 0 (ZIP)",
+          "file": "credit-reporting-v1-0-90b488a656.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-1/credit-reporting-v1-0-90b488a656.zip",
+          "bytes": 162033
+        },
+        {
+          "name": "MORTGAGE INSURANCE APPLICATION v1 0 (ZIP)",
+          "file": "mortgage-insurance-application-v1-0-51eb1f4b03.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-1/mortgage-insurance-application-v1-0-51eb1f4b03.zip",
+          "bytes": 113309
+        },
+        {
+          "name": "CREDIT REPORTING v1 0 1 (ZIP)",
+          "file": "credit-reporting-v1-0-1-48d97e2d99.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-1/credit-reporting-v1-0-1-48d97e2d99.zip",
+          "bytes": 81304
+        },
+        {
+          "name": "AUS v1 1 (ZIP)",
+          "file": "aus-v1-1-53a1ae80a2.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-1/aus-v1-1-53a1ae80a2.zip",
+          "bytes": 107516
+        },
+        {
+          "name": "CREDIT REPORTING v1 1 (ZIP)",
+          "file": "credit-reporting-v1-1-657b2eda84.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-1/credit-reporting-v1-1-657b2eda84.zip",
+          "bytes": 76491
+        },
+        {
+          "name": "MI LOAN BOARDING v1 1 (ZIP)",
+          "file": "mi-loan-boarding-v1-1-d40788cf64.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-1/mi-loan-boarding-v1-1-d40788cf64.zip",
+          "bytes": 31261
+        },
+        {
+          "name": "MORTGAGE INSURANCE APPLICATION v1 1 (ZIP)",
+          "file": "mortgage-insurance-application-v1-1-cdbe1b16d6.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-1/mortgage-insurance-application-v1-1-cdbe1b16d6.zip",
+          "bytes": 60849
+        },
+        {
+          "name": "SECONDARY v1 1 (ZIP)",
+          "file": "secondary-v1-1-a2e583a82b.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-1/secondary-v1-1-a2e583a82b.zip",
+          "bytes": 35982
+        },
+        {
+          "name": "SERVICE ORDER v1 1 (ZIP)",
+          "file": "service-order-v1-1-8d6ef5532c.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-1/service-order-v1-1-8d6ef5532c.zip",
+          "bytes": 16612
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "api-toolkit-1-1",
+      "title": "API Toolkit 1.1",
+      "summary": "1 was released as FINAL in February of 2023. Several key updates were made to the toolkit so that it can continue to help facilitate rapid development of new products and applications across the mortgage industry.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": null,
+      "membersOnly": true,
+      "libraryUrl": "https://www.mismo.org/viewdocument/api-toolkit-11",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [],
+      "aliases": []
+    },
+    {
+      "id": "business-glossary-user-guide",
+      "title": "Business Glossary User Guide",
+      "summary": "The Business Glossary and associated User Guide was published as Final status on January 8, 2026. Recent updates incorporate terms from the MISMO Artificial Intelligence Glossary, key terminology related to Housing Counseling participants and practices, and terms associated with the MISMO Life of Loan Process Model related to Origination and Servicing.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/business-glossary",
+      "externalUrl": "https://resources.mismo.org/glossary/",
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Business Glossary User Guide 11.10.25 Final (ZIP)",
+          "file": "business-glossary-user-guide-11-10-25-final-f14c94b9ff.zip",
+          "url": "https://resources.mismo.org/work-products/files/business-glossary-user-guide/business-glossary-user-guide-11-10-25-final-f14c94b9ff.zip",
+          "bytes": 2163609
+        }
+      ],
+      "aliases": [],
+      "externalLabel": "Open the Business Glossary",
+      "externalText": "Every term is searchable in the MISMO Business Glossary, open to everyone."
+    },
+    {
+      "id": "loan-boarding-data-segment-of-the-industry-transfer-of-servicing-dataset-itsd",
+      "title": "Loan Boarding Data Segment",
+      "summary": "MISMO published the Loan Boarding Data Segment of the Industry Transfer of Servicing Dataset (ITSD) as Candidate Recommendation status on October 2, 2025. The LBDS of the ITSD is a comprehensive set of MISMO data points and enumerations that establishes a consistent standard for boarding newly originated residential mortgage loans.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/loan-boarding-data-segment-of-the-i",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MISMO Loan Boarding Data Segment of ITSD Version 1.1 08272025 (XLSX)",
+          "file": "mismo-loan-boarding-data-segment-of-itsd-version-1-1-0827202-f0980d5da5.xlsx",
+          "url": "https://resources.mismo.org/work-products/files/loan-boarding-data-segment-of-the-industry-transfer-of-servicing-dataset-itsd/mismo-loan-boarding-data-segment-of-itsd-version-1-1-0827202-f0980d5da5.xlsx",
+          "bytes": 1150522
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "version-3-implementation-guides",
+      "title": "Version 3 XML General Information Guide",
+      "summary": "MISMO® announced the release of the Version 3 XML General Implementation Guide for a 30-day public comment period, open through November 7, 2026. The public comment period allows those who participated in the proposal at least 30-days’ notice prior to final release to review and disclose any applicable Patent Rights (as defined by MISMO’s 2018 Intellectual Property Rights Policy).",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 1,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-3-general-information-guide",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MISMO V3 XML Reference Model General iGuide CP (DOCX)",
+          "file": "mismo-v3-xml-reference-model-general-iguide-cp-58b56c7a4e.docx",
+          "url": "https://resources.mismo.org/work-products/files/version-3-implementation-guides/mismo-v3-xml-reference-model-general-iguide-cp-58b56c7a4e.docx",
+          "bytes": 2450334
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "v3-5-property-and-valuation-services-implementation-guide",
+      "title": "V3.5 Property and Valuation Services Implementation Guide",
+      "summary": "5 Property and Valuation Services (PaVS) Implementation Guide (iGuide) in October of 2023 as Candidate Recommendation Status. 5).",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/property-and-valuation-services-ver",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "V3.5 Property and Valuation Services Implementation Guide F (DOCX)",
+          "file": "v3-5-property-and-valuation-services-implementation-guide-f-50f1830c12.docx",
+          "url": "https://resources.mismo.org/work-products/files/v3-5-property-and-valuation-services-implementation-guide/v3-5-property-and-valuation-services-implementation-guide-f-50f1830c12.docx",
+          "bytes": 867835
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "servicing-transfer-phase-2-loan-boarding-dataset-schema-wrapper-file",
+      "title": "Servicing Transfer Phase 2: Loan Boarding Dataset Schema Wrapper File",
+      "summary": "MISMO® published the Loan Boarding Data Segment as Candidate Recommendation status on May 26, 2026.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/servicing-transfer-phase-2-loan-boarding-dataset-schema-wrapper-file",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MISMO SD V1 0 Wrapper Files 20260422 CR (ZIP)",
+          "file": "mismo-sd-v1-0-wrapper-files-20260422-cr-2b10dff5c4.zip",
+          "url": "https://resources.mismo.org/work-products/files/servicing-transfer-phase-2-loan-boarding-dataset-schema-wrapper-file/mismo-sd-v1-0-wrapper-files-20260422-cr-2b10dff5c4.zip",
+          "bytes": 734658
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "smart-doc-v3-sample-package",
+      "title": "SMART Doc® V3 Sample Package",
+      "summary": "MISMO published the SMART Doc® V3 Sample Package as Final status on March 6, 2025. The SMART Doc® V3 Verifiable Profile specification allows document data to travel with the PDF and to be automatically verified with the document image, providing assurance that loan documents and associated data are consistent, reliable, and unaltered.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": null,
+      "membersOnly": true,
+      "libraryUrl": "https://www.mismo.org/viewdocument/smart-doc-v3-sample-package",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [],
+      "aliases": []
+    },
+    {
+      "id": "mortgage-insurance-implementation-guide-for-v3-4",
+      "title": "Mortgage Insurance Implementation Guide V3.4",
+      "summary": "4 as Candidate Recommendation status on June 30, 2026. 4 iGuide contains guidance for the data requirements necessary to facilitate the electronic ordering of MI rate quotes, MI commitments, contract underwrites, document packages and querying for MI order responses.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/mi-i-guide-for-v34-posted-for-memb",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MI v3.4 iGuide Wrapper Files 20260629 (ZIP)",
+          "file": "mi-v3-4-iguide-wrapper-files-20260629-8bb202f0d9.zip",
+          "url": "https://resources.mismo.org/work-products/files/mortgage-insurance-implementation-guide-for-v3-4/mi-v3-4-iguide-wrapper-files-20260629-8bb202f0d9.zip",
+          "bytes": 2856720
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "artificial-intelligence-glossary",
+      "title": "Artificial Intelligence Glossary",
+      "summary": "MISMO ® announced the release of the Artificial Intelligence (AI) Glossary as Candidate Recommendation status on September 30, 2025. This glossary serves as a growing collection of key AI terms and definitions to foster a shared language and mutual understanding among all mortgage stakeholders.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/artificial-intelligence-glossary",
+      "externalUrl": "https://resources.mismo.org/glossary/",
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MISMO iLAD industry Loan Application Dataset version 2.4.0 04112023 CR (ZIP)",
+          "file": "mismo-ilad-industry-loan-application-dataset-version-2-4-0-0-05b7bb5a38.zip",
+          "url": "https://resources.mismo.org/work-products/files/artificial-intelligence-glossary/mismo-ilad-industry-loan-application-dataset-version-2-4-0-0-05b7bb5a38.zip",
+          "bytes": 1324468
+        },
+        {
+          "name": "Comment Period MISMO iLAD 2 3 0 (ZIP)",
+          "file": "comment-period-mismo-ilad-2-3-0-f4e70b8cc7.zip",
+          "url": "https://resources.mismo.org/work-products/files/artificial-intelligence-glossary/comment-period-mismo-ilad-2-3-0-f4e70b8cc7.zip",
+          "bytes": 1179516
+        },
+        {
+          "name": "WR2024 14 AIGlossary vCR (ZIP)",
+          "file": "wr2024-14-aiglossary-vcr-f1c5ada964.zip",
+          "url": "https://resources.mismo.org/work-products/files/artificial-intelligence-glossary/wr2024-14-aiglossary-vcr-f1c5ada964.zip",
+          "bytes": 216975
+        }
+      ],
+      "aliases": [],
+      "externalLabel": "Open the Business Glossary",
+      "externalText": "Every term is searchable in the MISMO Business Glossary, open to everyone."
+    },
+    {
+      "id": "smart-doc-components",
+      "title": "SMART Doc Components",
+      "summary": "The acronym SMART represents: • Securable • Manageable • Archivable • Retrievable • Transferable An electronic document created to conform to a specification standardized by MISMO®. A SMART Doc® can lock together data and presentation in such a way that it can be system-validated to guarantee the integrity of the document.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/smart-doc-version-102-implementati",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "WR2024 28 SMARTDoc V1.02iGuide v2.4 vCR (ZIP)",
+          "file": "wr2024-28-smartdoc-v1-02iguide-v2-4-vcr-ef2975edbc.zip",
+          "url": "https://resources.mismo.org/work-products/files/smart-doc-components/wr2024-28-smartdoc-v1-02iguide-v2-4-vcr-ef2975edbc.zip",
+          "bytes": 2084440
+        },
+        {
+          "name": "WR2022 22 WR2022 24 WR2023 01 SMARTDOCiGuideUpdates 20240613 vCR (ZIP)",
+          "file": "wr2022-22-wr2022-24-wr2023-01-smartdociguideupdates-20240613-78ba352f33.zip",
+          "url": "https://resources.mismo.org/work-products/files/smart-doc-components/wr2022-22-wr2022-24-wr2023-01-smartdociguideupdates-20240613-78ba352f33.zip",
+          "bytes": 769638
+        },
+        {
+          "name": "FNMA SMART Doc Validator Patent (PDF)",
+          "file": "fnma-smart-doc-validator-patent-0d0b1ef2a8.pdf",
+          "url": "https://resources.mismo.org/work-products/files/smart-doc-components/fnma-smart-doc-validator-patent-0d0b1ef2a8.pdf",
+          "bytes": 636765
+        },
+        {
+          "name": "eMortgage SMART Doc FAQs v 1-0 (PDF)",
+          "file": "emortgage-smart-doc-faqs-v-1-0-4d6f7667fb.pdf",
+          "url": "https://resources.mismo.org/work-products/files/smart-doc-components/emortgage-smart-doc-faqs-v-1-0-4d6f7667fb.pdf",
+          "bytes": 115785
+        },
+        {
+          "name": "eMortgage SMART Doc TechOverview v 1-0 (PDF)",
+          "file": "emortgage-smart-doc-techoverview-v-1-0-c5054158a1.pdf",
+          "url": "https://resources.mismo.org/work-products/files/smart-doc-components/emortgage-smart-doc-techoverview-v-1-0-c5054158a1.pdf",
+          "bytes": 182172
+        },
+        {
+          "name": "FAQUsingMISMOVersion3withDocuments 09212016 (DOCX)",
+          "file": "faqusingmismoversion3withdocuments-09212016-5031ec1b7b.docx",
+          "url": "https://resources.mismo.org/work-products/files/smart-doc-components/faqusingmismoversion3withdocuments-09212016-5031ec1b7b.docx",
+          "bytes": 35456
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-engineering-guideline-meg-7",
+      "title": "MISMO Engineering Guideline (MEG) 0007: Class Words and Definition Guidelines, V1.5",
+      "summary": "MEG 0007 wasapproved as final in September of 2025.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 2,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-1-mismo-en",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MEG 0007 Class Words and Definition Guidelines v1.5 FINAL (DOCX)",
+          "file": "meg-0007-class-words-and-definition-guidelines-v1-5-final-a7a5d3e24b.docx",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guideline-meg-7/meg-0007-class-words-and-definition-guidelines-v1-5-final-a7a5d3e24b.docx",
+          "bytes": 153781
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-version-3-4",
+      "title": "MISMO Version 3.4 Reference Model",
+      "summary": "4 is in Recommendation status which is the highest possible maturity level for a MISMO standard. A Recommendation has been thoroughly reviewed and implemented by a wide range of organizations and industry participants.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-34-referenc",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "V3.4 B324 CR 2016-01-28 PUBLICATION (ZIP)",
+          "file": "v3-4-b324-cr-2016-01-28-publication-43cac18774.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-4/v3-4-b324-cr-2016-01-28-publication-43cac18774.zip",
+          "bytes": 6874093
+        },
+        {
+          "name": "V3 4 B324 R 2016-01-28 LDD (ZIP)",
+          "file": "v3-4-b324-r-2016-01-28-ldd-911707be46.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-4/v3-4-b324-r-2016-01-28-ldd-911707be46.zip",
+          "bytes": 4085100
+        },
+        {
+          "name": "V3 4 B324 R 2016-01-28 LDD (ZIP)",
+          "file": "v3-4-b324-r-2016-01-28-ldd-911707be46.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-4/v3-4-b324-r-2016-01-28-ldd-911707be46.zip",
+          "bytes": 4085100
+        },
+        {
+          "name": "V3 4 B324 R 2016-01-28 DOCUMENTATION (ZIP)",
+          "file": "v3-4-b324-r-2016-01-28-documentation-12f33c1e60.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-4/v3-4-b324-r-2016-01-28-documentation-12f33c1e60.zip",
+          "bytes": 1607028
+        },
+        {
+          "name": "V3 4 B324 R 2016-01-28 DOCUMENTATION (ZIP)",
+          "file": "v3-4-b324-r-2016-01-28-documentation-12f33c1e60.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-4/v3-4-b324-r-2016-01-28-documentation-12f33c1e60.zip",
+          "bytes": 1607028
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "housing-counseling-white-paper",
+      "title": "Housing Counseling White Paper",
+      "summary": "MISMO published the white paper written by the MISMO Housing Counseling Development Workgroup as Final September 2024.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/housing-counseling-white-paper",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "HousingCounselingWhitePaper 20240726 vCR (PDF)",
+          "file": "housingcounselingwhitepaper-20240726-vcr-2321d85b06.pdf",
+          "url": "https://resources.mismo.org/work-products/files/housing-counseling-white-paper/housingcounselingwhitepaper-20240726-vcr-2321d85b06.pdf",
+          "bytes": 868866
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "irs-form-4506-c-4506-t",
+      "title": "IRS Form 4506-C",
+      "summary": "MISMO ® published an update to the previously-published IRS Form 4506-C dataset. The revised dataset aligns with Form 4506-C, the IRS form used for requesting tax transcripts.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/va-form-26-1880",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "4506-C Revised Dataset Specification and Sample 05082024 (ZIP)",
+          "file": "4506-c-revised-dataset-specification-and-sample-05082024-0fdcb91529.zip",
+          "url": "https://resources.mismo.org/work-products/files/irs-form-4506-c-4506-t/4506-c-revised-dataset-specification-and-sample-05082024-0fdcb91529.zip",
+          "bytes": 2072867
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "smart-doc-version-3",
+      "title": "SMART Doc® Version 3",
+      "summary": "The acronym SMART represents: • Securable • Manageable • Archivable • Retrievable • Transferable MISMO® announced revisions to the SMART Doc® Version 3 PDF Implementation Guidefor a 30-day public comment period, open through October 29, 2026.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 1,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/smart-doc-version-3",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "WR 2026 04 SMARTDOCV3iGuideUpdates vCP (ZIP)",
+          "file": "wr-2026-04-smartdocv3iguideupdates-vcp-3df3cff8c7.zip",
+          "url": "https://resources.mismo.org/work-products/files/smart-doc-version-3/wr-2026-04-smartdocv3iguideupdates-vcp-3df3cff8c7.zip",
+          "bytes": 3599499
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-engineering-guideline-meg-47",
+      "title": "MISMO Engineering Guideline (MEG) 0047: MISMO Unique Identifiers, V1.0",
+      "summary": "MISMO Engineering Guideline (MEG) 47 provides guidelines for the creation and maintenance of Unique IDs are captured in MISMO Engineering Guide 0047 (MEG 0047) and the corresponding MISMO Unique Identifiers Implementation Guide to support industry usage.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 1,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-1-mismo-en",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MEG 0016 v1.3 (DOCX)",
+          "file": "meg-0016-v1-3-66fd20d789.docx",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guideline-meg-47/meg-0016-v1-3-66fd20d789.docx",
+          "bytes": 51072
+        },
+        {
+          "name": "MEG 0047 MISMO Unique Identifiers v1.0 5.13.25 (DOCX)",
+          "file": "meg-0047-mismo-unique-identifiers-v1-0-5-13-25-bfa36400d5.docx",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guideline-meg-47/meg-0047-mismo-unique-identifiers-v1-0-5-13-25-bfa36400d5.docx",
+          "bytes": 54174
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "bpm-reference-model-toolkit",
+      "title": "BPM + Reference Model Toolkit",
+      "summary": "MISMO® published the BPM + Reference Model Toolkit as Final status on May 5th, 2026. The BPM+ Reference Model Toolkit enables lenders, vendors, and investors to leverage the MISMO Reference Model by providing a neutral, implementation‑ready representation of MISMO data and processes.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/bpm-reference-model-toolkit",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "WR2023 05 BPM  Reference Model Toolkit CR (1) (ZIP)",
+          "file": "wr2023-05-bpm-reference-model-toolkit-cr-1-96ef0e998a.zip",
+          "url": "https://resources.mismo.org/work-products/files/bpm-reference-model-toolkit/wr2023-05-bpm-reference-model-toolkit-cr-1-96ef0e998a.zip",
+          "bytes": 1271062
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-engineering-guidelines-0002-xml-1-0-profile-v1-1-x263610",
+      "title": "MISMO Engineering Guideline (MEG) 0002: XML 1.0 Profile, V2.0",
+      "summary": "MEG 0002 wasapproved as final in September of 2025. Updates to this MEG include: Removed the summary table and redundant content Improved rationale, grammar, and formatting MEG 0002 describes the specification of the MISMO XML Profile.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 2,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-1-mismo-en",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MEG 0002 MISMO XML 1.0 Profile v2.0 FINAL (DOCX)",
+          "file": "meg-0002-mismo-xml-1-0-profile-v2-0-final-40b1f23642.docx",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines-0002-xml-1-0-profile-v1-1-x263610/meg-0002-mismo-xml-1-0-profile-v2-0-final-40b1f23642.docx",
+          "bytes": 210247
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "hud-addendum-to-urla-dataset",
+      "title": "HUD Addendum to URLA Dataset",
+      "summary": "A MISMO dataset mapping for the HUD Addendum to the Uniform Residential Loan Application (HUD-92900-A) was published as Candidate Recommendation status on March 3, 2026. This dataset provides an industry standard for the transmission of the information required on the HUD Addendum to the Uniform Residential Loan Application, creating efficiency and improved interoperability.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/hud-addendum-to-urla-dataset",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "HUD Addendum to URLA 92900A Dataset 12.22.25 CR (XLSX)",
+          "file": "hud-addendum-to-urla-92900a-dataset-12-22-25-cr-c95c885ce4.xlsx",
+          "url": "https://resources.mismo.org/work-products/files/hud-addendum-to-urla-dataset/hud-addendum-to-urla-92900a-dataset-12-22-25-cr-c95c885ce4.xlsx",
+          "bytes": 2978825
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "bwic-template-mapping-specification",
+      "title": "BWIC Template and Mapping Specification",
+      "summary": "The Bids Wanted in Competition (BWIC) template and mapping specification are in Candidate Recommendation Status which means that it has been thoroughly reviewed by a wide range of organizations and industry participants and is available for use across the industry.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/bwic-template-mapping-specification",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "BWIC Standard Template and Mapping Specification Part C Published Version v1.0 (XLSX)",
+          "file": "bwic-standard-template-and-mapping-specification-part-c-publ-60db95876d.xlsx",
+          "url": "https://resources.mismo.org/work-products/files/bwic-template-mapping-specification/bwic-standard-template-and-mapping-specification-part-c-publ-60db95876d.xlsx",
+          "bytes": 76019
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-version-3-6",
+      "title": "MISMO Version 3.6 Reference Model",
+      "summary": "6 of the Reference Model was published as candidate recommendation status in May of 2025. This version includes a corresponding YAML file set that conforms to the OpenAPI specification; the logical data dictionary (LDD) which provides a business centric view of the model; and the MISMO SMART Doc® standards which provide formats for electronic formatting of documents; and more.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-36-package",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MISMO Reference Model Version 3.6 CR (ZIP)",
+          "file": "mismo-reference-model-version-3-6-cr-77014ba9cc.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-6/mismo-reference-model-version-3-6-cr-77014ba9cc.zip",
+          "bytes": 13768218
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "information-security-guidelines",
+      "title": "Information Security Guidelines",
+      "summary": "Over time MISMO has publish several pieces of collateral aimed at providing industry security related recommendations and general educational material on the topic of information security.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/information-security-guidelines",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "eClosing Security Section v4-1 (PDF)",
+          "file": "eclosing-security-section-v4-1-66c5cde72b.pdf",
+          "url": "https://resources.mismo.org/work-products/files/information-security-guidelines/eclosing-security-section-v4-1-66c5cde72b.pdf",
+          "bytes": 34147
+        },
+        {
+          "name": "I-Guide Section 3 Security Principles (PDF)",
+          "file": "i-guide-section-3-security-principles-4871da8705.pdf",
+          "url": "https://resources.mismo.org/work-products/files/information-security-guidelines/i-guide-section-3-security-principles-4871da8705.pdf",
+          "bytes": 246373
+        },
+        {
+          "name": "XML Signature Section for General I-Guide-1 (PDF)",
+          "file": "xml-signature-section-for-general-i-guide-1-f182481d5e.pdf",
+          "url": "https://resources.mismo.org/work-products/files/information-security-guidelines/xml-signature-section-for-general-i-guide-1-f182481d5e.pdf",
+          "bytes": 30903
+        },
+        {
+          "name": "GIdentifyingandSafeguardingPIGuidelinesFinal (PDF)",
+          "file": "gidentifyingandsafeguardingpiguidelinesfinal-7e3444363b.pdf",
+          "url": "https://resources.mismo.org/work-products/files/information-security-guidelines/gidentifyingandsafeguardingpiguidelinesfinal-7e3444363b.pdf",
+          "bytes": 2953939
+        },
+        {
+          "name": "FinalReviewofDataPointsforPI (PDF)",
+          "file": "finalreviewofdatapointsforpi-fe4d511df1.pdf",
+          "url": "https://resources.mismo.org/work-products/files/information-security-guidelines/finalreviewofdatapointsforpi-fe4d511df1.pdf",
+          "bytes": 60761
+        },
+        {
+          "name": "MISMO Remote Authentication Whitepaper (PDF)",
+          "file": "mismo-remote-authentication-whitepaper-750f8168c9.pdf",
+          "url": "https://resources.mismo.org/work-products/files/information-security-guidelines/mismo-remote-authentication-whitepaper-750f8168c9.pdf",
+          "bytes": 487180
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "title-and-settlement-as-data-post-closing-title-policy",
+      "title": "Title and Settlement as Data: Post-Closing (Title Policy)",
+      "summary": "The Title and Closing Dataset Specifications (existing) was published as Candidate Recommendation status on March 10, 2026.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/title-and-settlement-as-data-post",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Title Policy Dataset Specification Mapping 1.28.26 CR (XLSX)",
+          "file": "title-policy-dataset-specification-mapping-1-28-26-cr-d8444b7f79.xlsx",
+          "url": "https://resources.mismo.org/work-products/files/title-and-settlement-as-data-post-closing-title-policy/title-policy-dataset-specification-mapping-1-28-26-cr-d8444b7f79.xlsx",
+          "bytes": 1547995
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "title-and-settlement-as-data-closing-settlement-statement",
+      "title": "Title and Settlement as Data: Closing (Settlement Statement)",
+      "summary": "The Title and Closing Dataset Specifications (existing) was published as Candidate Recommendation status on March 12, 2026.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/title-and-settlement-as-data-closi",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "ALTA Settlement Statement CR (ZIP)",
+          "file": "alta-settlement-statement-cr-5f990f7f10.zip",
+          "url": "https://resources.mismo.org/work-products/files/title-and-settlement-as-data-closing-settlement-statement/alta-settlement-statement-cr-5f990f7f10.zip",
+          "bytes": 1910014
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "industry-loan-application-dataset-ilad-2-2-0",
+      "title": "Industry Loan Application Dataset (iLAD) 2.2.0",
+      "summary": "0 was approved for candidate recommendation status in August 2022. ), many of which leverage the existing iLAD file.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/ilad-candidate-recommendation-220",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "iLAD 2.2.0 (ZIP)",
+          "file": "ilad-2-2-0-859a4215f2.zip",
+          "url": "https://resources.mismo.org/work-products/files/industry-loan-application-dataset-ilad-2-2-0/ilad-2-2-0-859a4215f2.zip",
+          "bytes": 1380877
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-engineering-guideline-meg-21",
+      "title": "MISMO Engineering Guideline (MEG) 0021",
+      "summary": "MISMO Engineering Guideline (MEG) 0021 provides guidance for Term Name, Data Point Name, Enumerated Value and Container Name Representations. MEG 0021 was approved as FINAL in July of 2021.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-1-mismo-en",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MEG 0021 FINAL  July2021 (PDF)",
+          "file": "meg-0021-final-july2021-a3291be170.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guideline-meg-21/meg-0021-final-july2021-a3291be170.pdf",
+          "bytes": 266850
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "smart-doc-v3-security-instrument-specification",
+      "title": "SMART Doc® V3 Security Instrument Specification",
+      "summary": "MISMO published the SMART Doc® V3 Security Instrument Specification as Final status on June 24, 2025. The SMART Doc® V3 Verifiable Profile allows document data to travel with the PDF and then be automatically verified with the document image, providing assurance that loan documents and associated data are consistent, reliable, and unaltered.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 2,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/smart-doc-v3-security-instrument-s",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "WR2023 02 SecurityInstrument vCR (ZIP)",
+          "file": "wr2023-02-securityinstrument-vcr-6bee502d89.zip",
+          "url": "https://resources.mismo.org/work-products/files/smart-doc-v3-security-instrument-specification/wr2023-02-securityinstrument-vcr-6bee502d89.zip",
+          "bytes": 37499894
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-version-3-2",
+      "title": "MISMO Version 3.2 Reference Model",
+      "summary": "2 is currently in Candidate Recommendation status which means that it has been thoroughly reviewed by a wide range of organizations and industry participants and MISMO believes that it is ready for industry to use in implementations.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-320-refere",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": " ReferenceModel v3.2.0 B292 201200928 (ZIP)",
+          "file": "referencemodel-v3-2-0-b292-201200928-1f7d945f37.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-2/referencemodel-v3-2-0-b292-201200928-1f7d945f37.zip",
+          "bytes": 1516567
+        },
+        {
+          "name": "LDDReport v3.2.0.0 B292 20120928 (ZIP)",
+          "file": "lddreport-v3-2-0-0-b292-20120928-e154d016ab.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-2/lddreport-v3-2-0-0-b292-20120928-e154d016ab.zip",
+          "bytes": 1366283
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "private-label-rmbs-dataset",
+      "title": "Private Label RMBS Dataset",
+      "summary": "The Private Label Residential Mortgage-Backed Securities (PL RMBS) Specification has reached “Candidate Recommendation” status, meaning that it has been thoroughly reviewed by a wide range of organizations and industry participants and is available for use across the industry.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/pl-rmbs-xml-spec-and-guide-publishe",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MISMO PL RMBS Specification and iGuide V1.2 20230426 vCR vF (ZIP)",
+          "file": "mismo-pl-rmbs-specification-and-iguide-v1-2-20230426-vcr-vf-aa63507fc8.zip",
+          "url": "https://resources.mismo.org/work-products/files/private-label-rmbs-dataset/mismo-pl-rmbs-specification-and-iguide-v1-2-20230426-vcr-vf-aa63507fc8.zip",
+          "bytes": 516194
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-version-3-3",
+      "title": "MISMO Version 3.3 Reference Model",
+      "summary": "3 is in Recommendation status which is the highest possible maturity level for a MISMO standard. A Recommendation has been thoroughly reviewed and implemented by a wide range of organizations and industry participants.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-330-refere",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "V3.3.0 R 2017-04 PUBLICATION (ZIP)",
+          "file": "v3-3-0-r-2017-04-publication-262f067d72.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-3/v3-3-0-r-2017-04-publication-262f067d72.zip",
+          "bytes": 3409842
+        },
+        {
+          "name": "V3.3.0 R 2017-04 LDD (ZIP)",
+          "file": "v3-3-0-r-2017-04-ldd-5ca37dcf01.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-3/v3-3-0-r-2017-04-ldd-5ca37dcf01.zip",
+          "bytes": 1501078
+        },
+        {
+          "name": "V3.3.0 R 2017-04 DOCUMENTATION (ZIP)",
+          "file": "v3-3-0-r-2017-04-documentation-9d0476a257.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-3/v3-3-0-r-2017-04-documentation-9d0476a257.zip",
+          "bytes": 848336
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "title-and-closing-dataset-specifications",
+      "title": "Title and Closing Dataset Specifications",
+      "summary": "The industry standard data set mapping for several pre-closing and closing datasets have achieved “Candidate Recommendation” status, which means they have been thoroughly reviewed by a wide range of organizations and industry participants and are available for use across the industry.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/title-and-closing-dataset-specifica",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Title and Closing Dataset Specification 10.24.2023 vCR (ZIP)",
+          "file": "title-and-closing-dataset-specification-10-24-2023-vcr-796cfccceb.zip",
+          "url": "https://resources.mismo.org/work-products/files/title-and-closing-dataset-specifications/title-and-closing-dataset-specification-10-24-2023-vcr-796cfccceb.zip",
+          "bytes": 7761049
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "industry-loan-application-dataset-ilad-2-4-0",
+      "title": "Industry Loan Application Dataset (iLAD) 2.4.0",
+      "summary": "0 extends the capabilities and increases the effectiveness of the dataset, which serves as the industry’s standard method for exchanging data associated with originating and underwriting mortgage loans.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/ilad-240",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MISMO iLAD industry Loan Application Dataset version 2.4.0 04112023 CR (ZIP)",
+          "file": "mismo-ilad-industry-loan-application-dataset-version-2-4-0-0-05b7bb5a38.zip",
+          "url": "https://resources.mismo.org/work-products/files/industry-loan-application-dataset-ilad-2-4-0/mismo-ilad-industry-loan-application-dataset-version-2-4-0-0-05b7bb5a38.zip",
+          "bytes": 1324468
+        },
+        {
+          "name": "Comment Period MISMO iLAD 2 3 0 (ZIP)",
+          "file": "comment-period-mismo-ilad-2-3-0-f4e70b8cc7.zip",
+          "url": "https://resources.mismo.org/work-products/files/industry-loan-application-dataset-ilad-2-4-0/comment-period-mismo-ilad-2-3-0-f4e70b8cc7.zip",
+          "bytes": 1179516
+        },
+        {
+          "name": "MISMO iLAD industry Loan Application Dataset version 2.4.0 04112023 CR (ZIP)",
+          "file": "mismo-ilad-industry-loan-application-dataset-version-2-4-0-0-05b7bb5a38.zip",
+          "url": "https://resources.mismo.org/work-products/files/industry-loan-application-dataset-ilad-2-4-0/mismo-ilad-industry-loan-application-dataset-version-2-4-0-0-05b7bb5a38.zip",
+          "bytes": 1324468
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "remote-online-notarization-standards",
+      "title": "Remote Online Notarization (RON) Standards V2",
+      "summary": "The Remote Online Notarization Standards (RON) V2 public comment period ended August 27, 2024. Comments were received that the development workgroup is still working through to resolve.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/remote-online-notarization-ron-st",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Remote Online Notarization StandardsV2 20240510 vCP (DOCX)",
+          "file": "remote-online-notarization-standardsv2-20240510-vcp-15ac5377f5.docx",
+          "url": "https://resources.mismo.org/work-products/files/remote-online-notarization-standards/remote-online-notarization-standardsv2-20240510-vcp-15ac5377f5.docx",
+          "bytes": 43928
+        },
+        {
+          "name": "Remote Online Notarization StandardsV2 20240510 vCP (DOCX)",
+          "file": "remote-online-notarization-standardsv2-20240510-vcp-15ac5377f5.docx",
+          "url": "https://resources.mismo.org/work-products/files/remote-online-notarization-standards/remote-online-notarization-standardsv2-20240510-vcp-15ac5377f5.docx",
+          "bytes": 43928
+        },
+        {
+          "name": "Remote Online Notarization Standards - FINAL Candidate Recommendation (CR) Commercial Use Version (PDF)",
+          "file": "remote-online-notarization-standards-final-candidate-recomme-3c38a99311.pdf",
+          "url": "https://resources.mismo.org/work-products/files/remote-online-notarization-standards/remote-online-notarization-standards-final-candidate-recomme-3c38a99311.pdf",
+          "bytes": 423606
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "industry-loan-application-dataset-ilad-2-1-0",
+      "title": "Industry Loan Application Dataset (iLAD) 2.1.0",
+      "summary": "0 Specification was approved as Candidate Recommendation Status in May of 2022. The iLAD specification is an integration of several existing industry specifications that are destined for future use in the mortgage industry for underwriting and origination functions.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/ilad-candidate-recommendation-210",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "iLAD 2.1.0 Candidate Recommendation (ZIP)",
+          "file": "ilad-2-1-0-candidate-recommendation-ca4e0f2adb.zip",
+          "url": "https://resources.mismo.org/work-products/files/industry-loan-application-dataset-ilad-2-1-0/ilad-2-1-0-candidate-recommendation-ca4e0f2adb.zip",
+          "bytes": 1513855
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "credit-scoring-implementation-artifacts",
+      "title": "Credit Scoring Implementation Artifacts",
+      "summary": "MISMO published the Credit Score Implementation Guide and Credit Score Model Name Document as Final status on November 25, 2025. The Credit Score Implementation Guide provides backward and forward compatibility guidance for the implementation of MISMO standards to support the industry-wide credit reporting modernization.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/credit-scoring-implementation-artif",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Credit Scoring Implementation Guide Final (ZIP)",
+          "file": "credit-scoring-implementation-guide-final-b94c8544f2.zip",
+          "url": "https://resources.mismo.org/work-products/files/credit-scoring-implementation-artifacts/credit-scoring-implementation-guide-final-b94c8544f2.zip",
+          "bytes": 149770
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "emortgage-vaulting-guide",
+      "title": "eMortgage Vaulting Guide",
+      "summary": "The purpose of this document is to provide information and guidance for evaluating, implementing, and relying on electronic vaults for storing electronic documents, and in particular, the eNote. The term, \"electronic vault\" is typically used in the mortgage industry today to identify a system where electronic documents are stored for safekeeping.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/emortgage-vaulting-g",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "eMortgage Vaulting Guide Ver 3.0 Final Draft 03-08-06 (PDF)",
+          "file": "emortgage-vaulting-guide-ver-3-0-final-draft-03-08-06-71e82d735e.pdf",
+          "url": "https://resources.mismo.org/work-products/files/emortgage-vaulting-guide/emortgage-vaulting-guide-ver-3-0-final-draft-03-08-06-71e82d735e.pdf",
+          "bytes": 733728
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "taxpayer-consent-language",
+      "title": "Taxpayer Consent Language",
+      "summary": "MISMO's Taxpayer Consent Language provides a consistent way for the mortgage industry to comply with the Taxpayer First Act, which requires the taxpayer to provide consent for the express purpose for which their tax information will be used. Additionally, the taxpayer must provide consent for their tax information to be shared with other parties.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/proposed-taxpayer-consent-language",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MISMO TAXPAYER CONSENT LANGUAGE Recommendation Status (PDF)",
+          "file": "mismo-taxpayer-consent-language-recommendation-status-b7a1961048.pdf",
+          "url": "https://resources.mismo.org/work-products/files/taxpayer-consent-language/mismo-taxpayer-consent-language-recommendation-status-b7a1961048.pdf",
+          "bytes": 192878
+        },
+        {
+          "name": "MISMO TAXPAYER CONSENT LANGUAGE Recommendation Status (PDF)",
+          "file": "mismo-taxpayer-consent-language-recommendation-status-b7a1961048.pdf",
+          "url": "https://resources.mismo.org/work-products/files/taxpayer-consent-language/mismo-taxpayer-consent-language-recommendation-status-b7a1961048.pdf",
+          "bytes": 192878
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "title-settlement-pricing-dataset",
+      "title": "Title & Settlement Pricing Dataset",
+      "summary": "MISMO® announced the release of the Title & Settlement Pricing Dataset for a 30-day public comment period, open through October 29, 2026. The public comment period allows those who participated in the proposal at least 30-days’ notice prior to final release to review and disclose any applicable Patent Rights (as defined by MISMO’s 2018 Intellectual Property Rights Policy).",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 1,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/title-settlement-pricing-dataset",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Title and Settlement Pricing Service Dataset 09.03.26 CP (XLSX)",
+          "file": "title-and-settlement-pricing-service-dataset-09-03-26-cp-b2ef24c5cc.xlsx",
+          "url": "https://resources.mismo.org/work-products/files/title-settlement-pricing-dataset/title-and-settlement-pricing-service-dataset-09-03-26-cp-b2ef24c5cc.xlsx",
+          "bytes": 447186
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-engineering-guideline-meg-25",
+      "title": "MISMO Engineering Guideline (MEG) 0025: Extending a Standard MISMO XML Schema, V2.0",
+      "summary": "MEG 0025 wasapproved as final in September of 2025. x XML schema.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 2,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-1-mismo-en",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MEG 0025 Extending a Standard MISMO XML Schema File v2.0 FINAL (DOCX)",
+          "file": "meg-0025-extending-a-standard-mismo-xml-schema-file-v2-0-fin-5ecd753d7c.docx",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guideline-meg-25/meg-0025-extending-a-standard-mismo-xml-schema-file-v2-0-fin-5ecd753d7c.docx",
+          "bytes": 213529
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "commercial-green-utility-data-standards",
+      "title": "Commercial Green Utility Data Standards",
+      "summary": "The Commercial Green Utility XSD File was elevated to Candidate Recommendation Status and the Implementation Guide & Use Cases were approved as Final in November of 2021. The dataset facilitate the efficient exchange of multifamily green utility data across the commercial real estate finance industry.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/commercial-utility-green-data-packa",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Commercial Green Utility Dataset - Final (ZIP)",
+          "file": "commercial-green-utility-dataset-final-84c7d5d9fc.zip",
+          "url": "https://resources.mismo.org/work-products/files/commercial-green-utility-data-standards/commercial-green-utility-dataset-final-84c7d5d9fc.zip",
+          "bytes": 1907258
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "logical-data-model-3-5",
+      "title": "Logical Data Model Version 3.5",
+      "summary": "MISMO's Logical Data Model (LDM) is a business centric model that makes it easier for organizations to communicate regardless of the technologies they choose to use for communicating with business partners.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/logical-data-model-and-collateral-m",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Public LDM - Final (ZIP)",
+          "file": "public-ldm-final-a4821d26ed.zip",
+          "url": "https://resources.mismo.org/work-products/files/logical-data-model-3-5/public-ldm-final-a4821d26ed.zip",
+          "bytes": 2830243
+        },
+        {
+          "name": "Public LDM - Final (ZIP)",
+          "file": "public-ldm-final-a4821d26ed.zip",
+          "url": "https://resources.mismo.org/work-products/files/logical-data-model-3-5/public-ldm-final-a4821d26ed.zip",
+          "bytes": 2830243
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-unique-identifiers-implementation-guide",
+      "title": "MISMO Unique Identifiers Implementation Guide",
+      "summary": "The MISMO Unique Identifiers implementation guide supports the creation of Unique Identifiers (Unique ID) for the MISMO Reference Model. The guide was published as candidate recommendation in May of 2025.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 1,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/mismo-unique-identifiers-implementa",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MEG 0047 MISMO Unique Identifiers v1.0 02.05.2025 (1) (DOCX)",
+          "file": "meg-0047-mismo-unique-identifiers-v1-0-02-05-2025-1-b372aa8228.docx",
+          "url": "https://resources.mismo.org/work-products/files/mismo-unique-identifiers-implementation-guide/meg-0047-mismo-unique-identifiers-v1-0-02-05-2025-1-b372aa8228.docx",
+          "bytes": 125130
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "meg-0027",
+      "title": "MISMO Engineering Guideline (MEG) 0027",
+      "summary": "MISMO Engineering Guideline (MEG) 27 provides guidance to help determine if a new version of the MISMO Reference Model is compatible with a previously-implemented solution. MEG 27 was approved as FINAL in September 2022.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-1-mismo-en",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MEG 0027 v1.0  (PDF)",
+          "file": "meg-0027-v1-0-04529cbcea.pdf",
+          "url": "https://resources.mismo.org/work-products/files/meg-0027/meg-0027-v1-0-04529cbcea.pdf",
+          "bytes": 262267
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-hmda-implementation-toolkit",
+      "title": "MISMO HMDA Implementation Toolkit",
+      "summary": "The MISMO HMDA Implementation Toolkit is designed to help companies implement the CFPB HMDA rules. These tools, collectively referred to as the HMDA Implementation Toolkit (the Toolkit), offer a comprehensive collection of guidance, mapping documents, and other information about the rule and the use of MISMO in meeting the requirements of the rule.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": null,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/mismo-hmda-implement-1",
+      "externalUrl": null,
+      "purchaseUrl": "https://www.mba.org/home/product/mismo-home-mortgage-disclosure-act-hmda-implementation-toolkit-70479",
+      "files": [],
+      "aliases": [],
+      "price": "$250"
+    },
+    {
+      "id": "smart-doc-1-02-specification-x142958",
+      "title": "SMART Doc 1.02 Specification",
+      "summary": "The SMART Doc® Specification is a technical framework for representing documents in an electronic format. 02is used industry wide as the base for eNotes.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/smart-doc-version-102-implementati",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "WR2024 28 SMARTDoc V1.02iGuide v2.4 vCR (ZIP)",
+          "file": "wr2024-28-smartdoc-v1-02iguide-v2-4-vcr-ef2975edbc.zip",
+          "url": "https://resources.mismo.org/work-products/files/smart-doc-1-02-specification-x142958/wr2024-28-smartdoc-v1-02iguide-v2-4-vcr-ef2975edbc.zip",
+          "bytes": 2084440
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "industry-loan-application-dataset-ilad-2-3-0",
+      "title": "Industry Loan Application Dataset (iLAD) 2.3.0",
+      "summary": "0 extends the capabilities and increases the effectiveness of this dataset which serves as the industry’s standard method for exchanging data associated with originating and underwriting mortgage loans. The 30-day public comment period for this dataset runs through April 20th, 2023.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 1,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/ilad-230",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Comment Period MISMO iLAD 2 3 0 (ZIP)",
+          "file": "comment-period-mismo-ilad-2-3-0-f4e70b8cc7.zip",
+          "url": "https://resources.mismo.org/work-products/files/industry-loan-application-dataset-ilad-2-3-0/comment-period-mismo-ilad-2-3-0-f4e70b8cc7.zip",
+          "bytes": 1179516
+        },
+        {
+          "name": "Comment Period MISMO iLAD 2 3 0 (ZIP)",
+          "file": "comment-period-mismo-ilad-2-3-0-f4e70b8cc7.zip",
+          "url": "https://resources.mismo.org/work-products/files/industry-loan-application-dataset-ilad-2-3-0/comment-period-mismo-ilad-2-3-0-f4e70b8cc7.zip",
+          "bytes": 1179516
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mortgage-insurance-estimated-rate-quote-api",
+      "title": "Mortgage Insurance Estimated Rate Quote API",
+      "summary": "MISMO® announced revisions to the MI Estimated Rate Quote API for a 30-day public comment period, open through October 29, 2026. The public comment period allows those who participated in the proposal at least 30-days’ notice prior to final release to review and disclose any applicable Patent Rights (as defined by MISMO’s 2018 Intellectual Property Rights Policy).",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 1,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/mi-rate-quote-api-comment-period-ve",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MISMO 3.5 JSON MI Estimated Rate Quote 20260921 CommentPeriod (ZIP)",
+          "file": "mismo-3-5-json-mi-estimated-rate-quote-20260921-commentperio-028495f3d1.zip",
+          "url": "https://resources.mismo.org/work-products/files/mortgage-insurance-estimated-rate-quote-api/mismo-3-5-json-mi-estimated-rate-quote-20260921-commentperio-028495f3d1.zip",
+          "bytes": 95885
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "data-governance-and-management-resources-v2",
+      "title": "Data Governance and Management Resources",
+      "summary": "MISMO ® published the Data Governance and Management Program Implementation Resource Package , which includes a series of templates, guides, and educational resources that can be used to establish a Data Governance and Management program within an organization. This package was developed with input from the mortgage finance industry.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": null,
+      "membersOnly": true,
+      "libraryUrl": "https://www.mismo.org/viewdocument/data-governance-and-management-prog",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [],
+      "aliases": []
+    },
+    {
+      "id": "mismo-engineering-guideline-meg-6",
+      "title": "MISMO Engineering Guideline (MEG) 0006",
+      "summary": "x data standards. MISMO's Architecture Workgroup has recently made adjustments to MEG 0006 to change the wording to reflect that this MEG applies to the various representations of the model instead of just the XML Schema.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-1-mismo-en",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MEG 0006 FINAL MAY2021 (PDF)",
+          "file": "meg-0006-final-may2021-227cc3183f.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guideline-meg-6/meg-0006-final-may2021-227cc3183f.pdf",
+          "bytes": 217861
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "consumer-facing-charge-and-fee-guide",
+      "title": "Consumer-Facing Charge and Fee Guide",
+      "summary": "MISMO® announced publication of updates to its Consumer-Facing Charge and Fee Naming Guide as Candidate Recommendation status on September 11, 2025. This work enables lenders to: Improve Fee Transparency : By replacing vague “other” fee labels with specific, standardized names, lenders can present clearer, more consumer-friendly disclosures on Loan Estimates and Closing Disclosures.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/consumer-facing-charge-and-fee-guid",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Consumer Facing Charge and Fee Naming Guide v2 8.18.25 CR (ZIP)",
+          "file": "consumer-facing-charge-and-fee-naming-guide-v2-8-18-25-cr-1038550d85.zip",
+          "url": "https://resources.mismo.org/work-products/files/consumer-facing-charge-and-fee-guide/consumer-facing-charge-and-fee-naming-guide-v2-8-18-25-cr-1038550d85.zip",
+          "bytes": 352044
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "blockchain-white-paper",
+      "title": "Blockchain White Paper",
+      "summary": "” The white paper outlines findings describing how blockchain technology could enhance the way mortgages are originated, serviced, sold, and traded while improving efficiency, enabling transparency, and increasing trust among market participants.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/blockchain-whitepaper",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Blockchain Outlook for the Mortgage Industry 20230623 vCR (DOCX)",
+          "file": "blockchain-outlook-for-the-mortgage-industry-20230623-vcr-16e743fba7.docx",
+          "url": "https://resources.mismo.org/work-products/files/blockchain-white-paper/blockchain-outlook-for-the-mortgage-industry-20230623-vcr-16e743fba7.docx",
+          "bytes": 250214
+        },
+        {
+          "name": "Comment Period MISMO iLAD 2 3 0 (ZIP)",
+          "file": "comment-period-mismo-ilad-2-3-0-f4e70b8cc7.zip",
+          "url": "https://resources.mismo.org/work-products/files/blockchain-white-paper/comment-period-mismo-ilad-2-3-0-f4e70b8cc7.zip",
+          "bytes": 1179516
+        },
+        {
+          "name": "Blockchain Outlook for the Mortgage Industry 20230623 vCR (DOCX)",
+          "file": "blockchain-outlook-for-the-mortgage-industry-20230623-vcr-16e743fba7.docx",
+          "url": "https://resources.mismo.org/work-products/files/blockchain-white-paper/blockchain-outlook-for-the-mortgage-industry-20230623-vcr-16e743fba7.docx",
+          "bytes": 250214
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-engineering-guideline-meg-3",
+      "title": "MISMO Engineering Guideline (MEG) 0003",
+      "summary": "MISMO Engineering Guideline (MEG) 0003 provides guidelines for XML namespaces. It is needed due to the importance of namespaces and alignment with the scope of the W3C XML Namespace specification separate to the core W3C XML specification.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-1-mismo-en",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MEG 0003 FINAL APRIL2021 (PDF)",
+          "file": "meg-0003-final-april2021-50445a9777.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guideline-meg-3/meg-0003-final-april2021-50445a9777.pdf",
+          "bytes": 260555
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-version-3-6-3-reference-model",
+      "title": "MISMO Version 3.6.3 Reference Model",
+      "summary": "3 Reference Model as Candidate Recommendation status on June 2, 2026.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-36-package",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MISMO v3.6.3 B375 Reference Model Non-Members (ZIP)",
+          "file": "mismo-v3-6-3-b375-reference-model-non-members-d883309cf3.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-6-3-reference-model/mismo-v3-6-3-b375-reference-model-non-members-d883309cf3.zip",
+          "bytes": 4553822
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "smart-doc-v3-eheloc-specification",
+      "title": "SMART Doc® V3 eHELOC Specification",
+      "summary": "MISMO published the SMART Doc® V3 eHELOC Specification as Candidate Recommendation status on September 9, 2025. This standard was developed to meet requests for natively created electronic documents to support the growth of home equity lines of credit (HELOCs).",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/smart-doc-v3-eheloc-specification",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "eHELOC V3 20250708 vCR (ZIP)",
+          "file": "eheloc-v3-20250708-vcr-905ba4a8c1.zip",
+          "url": "https://resources.mismo.org/work-products/files/smart-doc-v3-eheloc-specification/eheloc-v3-20250708-vcr-905ba4a8c1.zip",
+          "bytes": 1610423
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-engineering-guidelines",
+      "title": "MISMO Engineering Guidelines",
+      "summary": "MISMO has developed a series of guidelines to govern the development of MISMO standards and collateral work products. The MISMO Engineering Guidelines, or MEGs, ensure that MISMO work products adhere to all applicable technology standards, are produced in a consistent fashion, and meet the needs of the mortgage industry.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-1-mismo-en",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MEG 0003 FINAL APRIL2021 (PDF)",
+          "file": "meg-0003-final-april2021-50445a9777.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0003-final-april2021-50445a9777.pdf",
+          "bytes": 260555
+        },
+        {
+          "name": "MEG 0006 FINAL MAY2021 (PDF)",
+          "file": "meg-0006-final-may2021-227cc3183f.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0006-final-may2021-227cc3183f.pdf",
+          "bytes": 217861
+        },
+        {
+          "name": "MEG 0016 v1.3 (DOCX)",
+          "file": "meg-0016-v1-3-66fd20d789.docx",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0016-v1-3-66fd20d789.docx",
+          "bytes": 51072
+        },
+        {
+          "name": "MEG 0021 FINAL  July2021 (PDF)",
+          "file": "meg-0021-final-july2021-a3291be170.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0021-final-july2021-a3291be170.pdf",
+          "bytes": 266850
+        },
+        {
+          "name": "MEG 0040 FINAL July2021 (PDF)",
+          "file": "meg-0040-final-july2021-768db35689.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0040-final-july2021-768db35689.pdf",
+          "bytes": 353009
+        },
+        {
+          "name": "MEG 0042 v2.0 FINAL Feb2022 (PDF)",
+          "file": "meg-0042-v2-0-final-feb2022-c9aae8c210.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0042-v2-0-final-feb2022-c9aae8c210.pdf",
+          "bytes": 148482
+        },
+        {
+          "name": "MEG 0002 MISMO XML 1.0 Profile v2.0 FINAL (DOCX)",
+          "file": "meg-0002-mismo-xml-1-0-profile-v2-0-final-40b1f23642.docx",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0002-mismo-xml-1-0-profile-v2-0-final-40b1f23642.docx",
+          "bytes": 210247
+        },
+        {
+          "name": "MEG 0003 FINAL APRIL2021 (PDF)",
+          "file": "meg-0003-final-april2021-50445a9777.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0003-final-april2021-50445a9777.pdf",
+          "bytes": 260555
+        },
+        {
+          "name": "MEG 0004 Schema Profile Recommendations FINAL (DOCX)",
+          "file": "meg-0004-schema-profile-recommendations-final-6d1500e1a1.docx",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0004-schema-profile-recommendations-final-6d1500e1a1.docx",
+          "bytes": 80907
+        },
+        {
+          "name": "MEG 0005 Unicode and Internationalization FINAL (DOCX)",
+          "file": "meg-0005-unicode-and-internationalization-final-399b6be98f.docx",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0005-unicode-and-internationalization-final-399b6be98f.docx",
+          "bytes": 56928
+        },
+        {
+          "name": "MEG 0006 FINAL MAY2021 (PDF)",
+          "file": "meg-0006-final-may2021-227cc3183f.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0006-final-may2021-227cc3183f.pdf",
+          "bytes": 217861
+        },
+        {
+          "name": "MEG 0007 Class Words and Definition Guidelines v1.5 FINAL (DOCX)",
+          "file": "meg-0007-class-words-and-definition-guidelines-v1-5-final-a7a5d3e24b.docx",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0007-class-words-and-definition-guidelines-v1-5-final-a7a5d3e24b.docx",
+          "bytes": 153781
+        },
+        {
+          "name": "MEG 0008 1 2 (1) (DOCX)",
+          "file": "meg-0008-1-2-1-3ce4f8f244.docx",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0008-1-2-1-3ce4f8f244.docx",
+          "bytes": 53573
+        },
+        {
+          "name": "MEG 0010 v 1 2 (PDF)",
+          "file": "meg-0010-v-1-2-0ed79f0737.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0010-v-1-2-0ed79f0737.pdf",
+          "bytes": 131811
+        },
+        {
+          "name": "MEG 0016 v1.3 (DOCX)",
+          "file": "meg-0016-v1-3-66fd20d789.docx",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0016-v1-3-66fd20d789.docx",
+          "bytes": 51072
+        },
+        {
+          "name": "MEG 0021 FINAL  July2021 (PDF)",
+          "file": "meg-0021-final-july2021-a3291be170.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0021-final-july2021-a3291be170.pdf",
+          "bytes": 266850
+        },
+        {
+          "name": "MEG 0024 v1.0 May 2023 Final (PDF)",
+          "file": "meg-0024-v1-0-may-2023-final-a471c0900a.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0024-v1-0-may-2023-final-a471c0900a.pdf",
+          "bytes": 284279
+        },
+        {
+          "name": "MEG 0036 v 1 0 (PDF)",
+          "file": "meg-0036-v-1-0-4e9e64f6df.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0036-v-1-0-4e9e64f6df.pdf",
+          "bytes": 73194
+        },
+        {
+          "name": "MEG 0040 FINAL July2021 (PDF)",
+          "file": "meg-0040-final-july2021-768db35689.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0040-final-july2021-768db35689.pdf",
+          "bytes": 353009
+        },
+        {
+          "name": "MEG 0041 v 1 1 (PDF)",
+          "file": "meg-0041-v-1-1-064d74c1fb.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0041-v-1-1-064d74c1fb.pdf",
+          "bytes": 54443
+        },
+        {
+          "name": "MEG 0042 v2.0 FINAL Feb2022 (PDF)",
+          "file": "meg-0042-v2-0-final-feb2022-c9aae8c210.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0042-v2-0-final-feb2022-c9aae8c210.pdf",
+          "bytes": 148482
+        },
+        {
+          "name": "MEG 0043 v1.0 Final (PDF)",
+          "file": "meg-0043-v1-0-final-610f923521.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-0043-v1-0-final-610f923521.pdf",
+          "bytes": 598967
+        },
+        {
+          "name": "MEG 44 DMN Final Posted Document (PDF)",
+          "file": "meg-44-dmn-final-posted-document-492b792a83.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/meg-44-dmn-final-posted-document-492b792a83.pdf",
+          "bytes": 143156
+        },
+        {
+          "name": "MISMO V3 Reference Model General I-Guide (2018-05-10) (PDF)",
+          "file": "mismo-v3-reference-model-general-i-guide-2018-05-10-0469159aac.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines/mismo-v3-reference-model-general-i-guide-2018-05-10-0469159aac.pdf",
+          "bytes": 2377098
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-reference-model-version-3-5-yaml-files",
+      "title": "MISMO Reference Model Version 3.5 YAML Files",
+      "summary": "5 YAML Files has reached “Candidate Recommendation” status, which means that it has been thoroughly reviewed by a wide range of organizations and industry participants and is available for use across the industry.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": null,
+      "membersOnly": true,
+      "libraryUrl": "https://www.mismo.org/viewdocument/reference-model-version-35-yaml-fi",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [],
+      "aliases": []
+    },
+    {
+      "id": "commercial-appraisal-dataset",
+      "title": "Commercial Appraisal Dataset",
+      "summary": "MISMO published the Commercial Appraisal Dataset as Candidate Recommendation status in March of 2025. The update introduces JavaScript Object Notation (JSON) as an additional communication format alongside the current XML format which remains unchanged.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/commercial-appraisal-dataset-standa",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MISMO Commercial Appraisal Dataset 20241218 vCR (ZIP)",
+          "file": "mismo-commercial-appraisal-dataset-20241218-vcr-c917d84e61.zip",
+          "url": "https://resources.mismo.org/work-products/files/commercial-appraisal-dataset/mismo-commercial-appraisal-dataset-20241218-vcr-c917d84e61.zip",
+          "bytes": 401100
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "commercial-enotes-data-glossary",
+      "title": "Commercial eNotes Data Glossary",
+      "summary": "MISMO® announced the release of the Commercial eNotes Data Glossary for a 30-day public comment period, open through November 7, 2026. The public comment period allows those who participated in the proposal at least 30-days’ notice prior to final release to review and disclose any applicable Patent Rights (as defined by MISMO’s 2018 Intellectual Property Rights Policy).",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 1,
+      "membersOnly": false,
+      "libraryUrl": null,
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "WR  Commercial eNotes Glossary 20260925 vCP (ZIP)",
+          "file": "wr-commercial-enotes-glossary-20260925-vcp-6f5babfab1.zip",
+          "url": "https://resources.mismo.org/work-products/files/commercial-enotes-data-glossary/wr-commercial-enotes-glossary-20260925-vcp-6f5babfab1.zip",
+          "bytes": 105502
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-engineering-guidelines-0005-unicode-and-internationalization-v1-0-x263614",
+      "title": "MISMO Engineering Guideline (MEG) 0005: Unicode and Internationalization, V2.0",
+      "summary": "MEG 0005 wasapproved as final in September of 2025. Updates to this MEG include: Updated formatting Replaced outdated terms and conditions with the current disclaimer, licensing, and copyright Improved terminology and added more detailed explanations Replaced the “assumptions” section with document status As described in MEG0002, MISMO has defined a profile for XML within the context of Real Estate Finance.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 2,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-1-mismo-en",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MEG 0005 Unicode and Internationalization FINAL (DOCX)",
+          "file": "meg-0005-unicode-and-internationalization-final-399b6be98f.docx",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines-0005-unicode-and-internationalization-v1-0-x263614/meg-0005-unicode-and-internationalization-final-399b6be98f.docx",
+          "bytes": 56928
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mortgage-compliance-dataset-mcd",
+      "title": "Mortgage Compliance Dataset (MCD)",
+      "summary": "0 as Candidate Recommendation status on December 11, 2025. 0 of the MISMO Reference Model.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/mortgage-compliance-dataset-mcd",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "WR2025 01 Enhanced Mortgage Compliance Dataset (ZIP)",
+          "file": "wr2025-01-enhanced-mortgage-compliance-dataset-f7d1c119c0.zip",
+          "url": "https://resources.mismo.org/work-products/files/mortgage-compliance-dataset-mcd/wr2025-01-enhanced-mortgage-compliance-dataset-f7d1c119c0.zip",
+          "bytes": 2769727
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "emessaging-and-epackaging",
+      "title": "eMessaging and ePackaging",
+      "summary": "eMessaging : This document provides implementation guidance for the MISMO Request/Response messaging structure for use with eMortgage applications. ePackaging : The purpose of this document is to provide a specification for a collection of related SMART Documents, called a package.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/emessaging-and-epacking",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "ePackage Requirements v 1-0 (PDF)",
+          "file": "epackage-requirements-v-1-0-ab798c1134.pdf",
+          "url": "https://resources.mismo.org/work-products/files/emessaging-and-epackaging/epackage-requirements-v-1-0-ab798c1134.pdf",
+          "bytes": 12046
+        },
+        {
+          "name": "ENVELOPING v2 4 errata1 (1) (ZIP)",
+          "file": "enveloping-v2-4-errata1-1-357df14eaf.zip",
+          "url": "https://resources.mismo.org/work-products/files/emessaging-and-epackaging/enveloping-v2-4-errata1-1-357df14eaf.zip",
+          "bytes": 1260827
+        },
+        {
+          "name": "ePackagingSpecification V 1 0 (PDF)",
+          "file": "epackagingspecification-v-1-0-18b72703d0.pdf",
+          "url": "https://resources.mismo.org/work-products/files/emessaging-and-epackaging/epackagingspecification-v-1-0-18b72703d0.pdf",
+          "bytes": 283665
+        },
+        {
+          "name": "ePackage I-Guide v 1-0 (PDF)",
+          "file": "epackage-i-guide-v-1-0-b0a54373e2.pdf",
+          "url": "https://resources.mismo.org/work-products/files/emessaging-and-epackaging/epackage-i-guide-v-1-0-b0a54373e2.pdf",
+          "bytes": 167505
+        },
+        {
+          "name": "EMORTGAGE PACKAGE v2 4 Errata1 (ZIP)",
+          "file": "emortgage-package-v2-4-errata1-933e530302.zip",
+          "url": "https://resources.mismo.org/work-products/files/emessaging-and-epackaging/emortgage-package-v2-4-errata1-933e530302.zip",
+          "bytes": 1767879
+        },
+        {
+          "name": "eMessage RequestResponse I-Guide v 1-0 (PDF)",
+          "file": "emessage-requestresponse-i-guide-v-1-0-e5c897b67b.pdf",
+          "url": "https://resources.mismo.org/work-products/files/emessaging-and-epackaging/emessage-requestresponse-i-guide-v-1-0-e5c897b67b.pdf",
+          "bytes": 223963
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "closing-instructions",
+      "title": "Closing Instructions",
+      "summary": "MISMO has published a new set of enhanced work products designed to create a standardized exchange for closing instructions information.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/enhanced-closing-instruction-templa",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Closing Instructions VCR F (ZIP)",
+          "file": "closing-instructions-vcr-f-251ad0a144.zip",
+          "url": "https://resources.mismo.org/work-products/files/closing-instructions/closing-instructions-vcr-f-251ad0a144.zip",
+          "bytes": 2034434
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "smart-doc-v3-power-of-attorney-specification",
+      "title": "SMART Doc® V3 Power of Attorney Specification",
+      "summary": "MISMO ® published the SMART Doc® V3 Power of Attorney Specification as Candidate Recommendation status on January 8th, 2026. The SMART Doc® V3 Verifiable Profile allows document data to travel with the PDF and then be automatically verified with the document image, providing assurance that loan documents and associated data are consistent, reliable, and unaltered.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/smart-doc-v3-power-of-attorney-spe",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "WR2024 04 POA V3 SMART DOC vCR (ZIP)",
+          "file": "wr2024-04-poa-v3-smart-doc-vcr-e4d9d01281.zip",
+          "url": "https://resources.mismo.org/work-products/files/smart-doc-v3-power-of-attorney-specification/wr2024-04-poa-v3-smart-doc-vcr-e4d9d01281.zip",
+          "bytes": 109809
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "erecording",
+      "title": "eRecording",
+      "summary": "This document describes the business requirements to allow for the eRecording of electronic recordable instruments in common electronic document formats such as MISMO SMART Doc ® , eSigned PDF and Adobe Intelligent Document Format, and Microsoft ® Word with embedded-XML. It also includes business functions, a process flow diagram, and project assumptions, constraints, and dependencies.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/erecording",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "EMORTGAGE 3157E MAPPING 20091105 (ZIP)",
+          "file": "emortgage-3157e-mapping-20091105-5004fb1cd3.zip",
+          "url": "https://resources.mismo.org/work-products/files/erecording/emortgage-3157e-mapping-20091105-5004fb1cd3.zip",
+          "bytes": 31446
+        },
+        {
+          "name": "eRecording IPR Release Draft v1 (1) (DOC)",
+          "file": "erecording-ipr-release-draft-v1-1-787678cf8e.doc",
+          "url": "https://resources.mismo.org/work-products/files/erecording/erecording-ipr-release-draft-v1-1-787678cf8e.doc",
+          "bytes": 388608
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-version-2",
+      "title": "Version 2 Residential Specifications",
+      "summary": "All of MISMO's Version 2 residential specifications are in candidate recommendation status. However, they are no longer maintained or updated.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/v2-comprehensive-file",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "AUS v2 0 (ZIP)",
+          "file": "aus-v2-0-c7eaa3925d.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/aus-v2-0-c7eaa3925d.zip",
+          "bytes": 82964
+        },
+        {
+          "name": "AUS v2 0 1 (ZIP)",
+          "file": "aus-v2-0-1-4c7de3b1f7.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/aus-v2-0-1-4c7de3b1f7.zip",
+          "bytes": 75654
+        },
+        {
+          "name": "CREDIT REPORTING v2 1 (ZIP)",
+          "file": "credit-reporting-v2-1-a092b17f73.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/credit-reporting-v2-1-a092b17f73.zip",
+          "bytes": 444675
+        },
+        {
+          "name": "Flood v2 1 (ZIP)",
+          "file": "flood-v2-1-73ce33c89a.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/flood-v2-1-73ce33c89a.zip",
+          "bytes": 54863
+        },
+        {
+          "name": "MORTGAGE INSURANCE APPLICATION v2 1 (ZIP)",
+          "file": "mortgage-insurance-application-v2-1-c2ab46fd3f.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/mortgage-insurance-application-v2-1-c2ab46fd3f.zip",
+          "bytes": 478124
+        },
+        {
+          "name": "TITLE v2 1 (ZIP)",
+          "file": "title-v2-1-7b64c27ab6.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/title-v2-1-7b64c27ab6.zip",
+          "bytes": 18594
+        },
+        {
+          "name": "SERVICING TRANSFER v2 1(0) (ZIP)",
+          "file": "servicing-transfer-v2-1-0-090515c7e8.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/servicing-transfer-v2-1-0-090515c7e8.zip",
+          "bytes": 344540
+        },
+        {
+          "name": "ENVELOPING v2 1 (ZIP)",
+          "file": "enveloping-v2-1-3c483d6dbb.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/enveloping-v2-1-3c483d6dbb.zip",
+          "bytes": 26793
+        },
+        {
+          "name": "Mortgage Insurance Application v2 1 1 (ZIP)",
+          "file": "mortgage-insurance-application-v2-1-1-f7130ce86e.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/mortgage-insurance-application-v2-1-1-f7130ce86e.zip",
+          "bytes": 505003
+        },
+        {
+          "name": "Credit Reporting v2 1 1 (ZIP)",
+          "file": "credit-reporting-v2-1-1-09f4429dbf.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/credit-reporting-v2-1-1-09f4429dbf.zip",
+          "bytes": 333207
+        },
+        {
+          "name": "Enveloping v2 1 1 (ZIP)",
+          "file": "enveloping-v2-1-1-b80d9ab5ef.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/enveloping-v2-1-1-b80d9ab5ef.zip",
+          "bytes": 11398
+        },
+        {
+          "name": "AUS v2 3 (ZIP)",
+          "file": "aus-v2-3-31cc157af8.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/aus-v2-3-31cc157af8.zip",
+          "bytes": 161775
+        },
+        {
+          "name": "CLOSING v2 3 (ZIP)",
+          "file": "closing-v2-3-8de00d8c3b.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/closing-v2-3-8de00d8c3b.zip",
+          "bytes": 230921
+        },
+        {
+          "name": "MORTGAGE APPLICATION v2 3 (ZIP)",
+          "file": "mortgage-application-v2-3-9aad83c43f.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/mortgage-application-v2-3-9aad83c43f.zip",
+          "bytes": 140666
+        },
+        {
+          "name": "CREDIT REPORTING v2 3 (ZIP)",
+          "file": "credit-reporting-v2-3-9581843c68.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/credit-reporting-v2-3-9581843c68.zip",
+          "bytes": 597788
+        },
+        {
+          "name": "DATA ITEM CHANGE v2 3 (ZIP)",
+          "file": "data-item-change-v2-3-36379c7d3c.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/data-item-change-v2-3-36379c7d3c.zip",
+          "bytes": 124620
+        },
+        {
+          "name": "ENVELOPING v2 3 (ZIP)",
+          "file": "enveloping-v2-3-ba5e0c136b.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/enveloping-v2-3-ba5e0c136b.zip",
+          "bytes": 45370
+        },
+        {
+          "name": "INVESTOR REPORTING v2 3 (ZIP)",
+          "file": "investor-reporting-v2-3-0ec8b6d98f.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/investor-reporting-v2-3-0ec8b6d98f.zip",
+          "bytes": 153000
+        },
+        {
+          "name": "INVESTOR SERVICING TRANSFER REQUEST v2 3 (ZIP)",
+          "file": "investor-servicing-transfer-request-v2-3-046ed16fb8.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/investor-servicing-transfer-request-v2-3-046ed16fb8.zip",
+          "bytes": 38994
+        },
+        {
+          "name": "SERVICING LOAN SET v2 3 (ZIP)",
+          "file": "servicing-loan-set-v2-3-cd0a4497ba.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/servicing-loan-set-v2-3-cd0a4497ba.zip",
+          "bytes": 127166
+        },
+        {
+          "name": "SERVICING TRANSFER v2 3 (ZIP)",
+          "file": "servicing-transfer-v2-3-4c533b0793.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/servicing-transfer-v2-3-4c533b0793.zip",
+          "bytes": 521212
+        },
+        {
+          "name": "AUS v2 3 1 (ZIP)",
+          "file": "aus-v2-3-1-63b67cf548.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/aus-v2-3-1-63b67cf548.zip",
+          "bytes": 113232
+        },
+        {
+          "name": "CLOSING v2 3 1 (ZIP)",
+          "file": "closing-v2-3-1-94166d892f.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/closing-v2-3-1-94166d892f.zip",
+          "bytes": 185462
+        },
+        {
+          "name": "MORTGAGE APPLICATION v2 3 1 (ZIP)",
+          "file": "mortgage-application-v2-3-1-1e0608ece2.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/mortgage-application-v2-3-1-1e0608ece2.zip",
+          "bytes": 129573
+        },
+        {
+          "name": "ENVELOPING v2 3 1 (ZIP)",
+          "file": "enveloping-v2-3-1-b28255359d.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/enveloping-v2-3-1-b28255359d.zip",
+          "bytes": 36759
+        },
+        {
+          "name": "CREDIT REPORTING v2 3 1 (ZIP)",
+          "file": "credit-reporting-v2-3-1-7cdf03f9e2.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/credit-reporting-v2-3-1-7cdf03f9e2.zip",
+          "bytes": 103916
+        },
+        {
+          "name": "MORTGAGE INSURANCE APPLICATION v2 3 1 (ZIP)",
+          "file": "mortgage-insurance-application-v2-3-1-3a3794f573.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/mortgage-insurance-application-v2-3-1-3a3794f573.zip",
+          "bytes": 2071025
+        },
+        {
+          "name": "MORTGAGE INSURANCE QUERY v2 3 1 (ZIP)",
+          "file": "mortgage-insurance-query-v2-3-1-a774a346fa.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/mortgage-insurance-query-v2-3-1-a774a346fa.zip",
+          "bytes": 123113
+        },
+        {
+          "name": "SERVICING LOAN SET v2 3 1 (ZIP)",
+          "file": "servicing-loan-set-v2-3-1-4b450c05da.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/servicing-loan-set-v2-3-1-4b450c05da.zip",
+          "bytes": 137589
+        },
+        {
+          "name": "SERVICING TRANSFER v2 3 1 (ZIP)",
+          "file": "servicing-transfer-v2-3-1-9217883774.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/servicing-transfer-v2-3-1-9217883774.zip",
+          "bytes": 545290
+        },
+        {
+          "name": "CLOSING v2 3 1 1 (ZIP)",
+          "file": "closing-v2-3-1-1-45847b7c3a.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/closing-v2-3-1-1-45847b7c3a.zip",
+          "bytes": 189957
+        },
+        {
+          "name": "FLOOD v2 3 2 Errata (ZIP)",
+          "file": "flood-v2-3-2-errata-59dc963c26.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/flood-v2-3-2-errata-59dc963c26.zip",
+          "bytes": 44286
+        },
+        {
+          "name": "PROPERTY v2 3 2 (ZIP)",
+          "file": "property-v2-3-2-fab656331d.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/property-v2-3-2-fab656331d.zip",
+          "bytes": 109318
+        },
+        {
+          "name": "TITLE v2 3 2 Errata (ZIP)",
+          "file": "title-v2-3-2-errata-c822aa167e.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/title-v2-3-2-errata-c822aa167e.zip",
+          "bytes": 73771
+        },
+        {
+          "name": "REAL ESTATE PROPERTY INFORMATION VALUATION REQUEST Release v2 4 (ZIP)",
+          "file": "real-estate-property-information-valuation-request-release-v-493aa58855.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/real-estate-property-information-valuation-request-release-v-493aa58855.zip",
+          "bytes": 2801201
+        },
+        {
+          "name": "AUS v2 4 errata1 (ZIP)",
+          "file": "aus-v2-4-errata1-3f14c076c9.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/aus-v2-4-errata1-3f14c076c9.zip",
+          "bytes": 1302985
+        },
+        {
+          "name": "CLOSING v2 4 errata1 (ZIP)",
+          "file": "closing-v2-4-errata1-a88face93d.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/closing-v2-4-errata1-a88face93d.zip",
+          "bytes": 2259959
+        },
+        {
+          "name": "DOCUMENT CLASSIFICATION DOCUMENT INFORMATION v2 4 (ZIP)",
+          "file": "document-classification-document-information-v2-4-615b5dab31.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/document-classification-document-information-v2-4-615b5dab31.zip",
+          "bytes": 142014
+        },
+        {
+          "name": "CREDIT REPORTING v2 4 (ZIP)",
+          "file": "credit-reporting-v2-4-e926b3a474.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/credit-reporting-v2-4-e926b3a474.zip",
+          "bytes": 2032359
+        },
+        {
+          "name": "FLOOD v2 4 (ZIP)",
+          "file": "flood-v2-4-8aef0adefa.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/flood-v2-4-8aef0adefa.zip",
+          "bytes": 1255900
+        },
+        {
+          "name": "MORTGAGE INSURANCE APPLICATION V2 4 (ZIP)",
+          "file": "mortgage-insurance-application-v2-4-bf4496ef4b.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/mortgage-insurance-application-v2-4-bf4496ef4b.zip",
+          "bytes": 1662178
+        },
+        {
+          "name": "MORTGAGE INSURANCE POLICY CANCEL v2 4 (ZIP)",
+          "file": "mortgage-insurance-policy-cancel-v2-4-62c17a0bb2.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/mortgage-insurance-policy-cancel-v2-4-62c17a0bb2.zip",
+          "bytes": 2145943
+        },
+        {
+          "name": "SECONDARY LOAN DELIVERY v2 4 Errata (ZIP)",
+          "file": "secondary-loan-delivery-v2-4-errata-70143de075.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/secondary-loan-delivery-v2-4-errata-70143de075.zip",
+          "bytes": 1514619
+        },
+        {
+          "name": "CREDIT REPORTING v2 4 1 1 (ZIP)",
+          "file": "credit-reporting-v2-4-1-1-37c1ff542e.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/credit-reporting-v2-4-1-1-37c1ff542e.zip",
+          "bytes": 1984008
+        },
+        {
+          "name": "CLOSING v2 5 (ZIP)",
+          "file": "closing-v2-5-dd6b78377a.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/closing-v2-5-dd6b78377a.zip",
+          "bytes": 1144204
+        },
+        {
+          "name": "REAL ESTATE PROPERTY INFORMATION VALUATION RESPONSE v2.6 (ZIP)",
+          "file": "real-estate-property-information-valuation-response-v2-6-5a537c6d1d.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/real-estate-property-information-valuation-response-v2-6-5a537c6d1d.zip",
+          "bytes": 482226
+        },
+        {
+          "name": "Closing V2 6 (ZIP)",
+          "file": "closing-v2-6-03442a0044.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/closing-v2-6-03442a0044.zip",
+          "bytes": 739520
+        },
+        {
+          "name": "REAL ESTATE PROPERTY INFORMATION VALUATION RESPONSE v2 6 Errata 1 (ZIP)",
+          "file": "real-estate-property-information-valuation-response-v2-6-err-8e3e436f51.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-2/real-estate-property-information-valuation-response-v2-6-err-8e3e436f51.zip",
+          "bytes": 462836
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "eheloc-faq",
+      "title": "eHELOC FAQ",
+      "summary": "MISMO® announced the release of the eHELOC FAQ for a 30-day public comment period, open through October 29, 2026. The public comment period allows those who participated in the proposal at least 30-days’ notice prior to final release to review and disclose any applicable Patent Rights (as defined by MISMO’s 2018 Intellectual Property Rights Policy).",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 1,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/eheloc-faq",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "WR 2024 19 eHELOC FAQ 20260901 vCP (ZIP)",
+          "file": "wr-2024-19-eheloc-faq-20260901-vcp-2ac59cde3e.zip",
+          "url": "https://resources.mismo.org/work-products/files/eheloc-faq/wr-2024-19-eheloc-faq-20260901-vcp-2ac59cde3e.zip",
+          "bytes": 247423
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "commercial-financial-operating-statement-data-standard",
+      "title": "Commercial Financial Operating Statement Data Standard",
+      "summary": "MISMO's Commercial Financial Operating Statement Data Standard was approved as Candidate Recommendation status in May 2022. The new MISMO exchange was developed by commercial real estate and technology professionals in response to the need to create a standard structure for sharing commercial and multifamily property financial operating statement data.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/commercial-financial-operating-stat",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Financial Operating Statement Data Package (ZIP)",
+          "file": "financial-operating-statement-data-package-6e1c2cc07b.zip",
+          "url": "https://resources.mismo.org/work-products/files/commercial-financial-operating-statement-data-standard/financial-operating-statement-data-package-6e1c2cc07b.zip",
+          "bytes": 944759
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "application-threshold-decision-model",
+      "title": "Application Threshold Decision Model and White paper",
+      "summary": "The Application Threshold Decision Model and White Paper were created by the MISMO Decision Modeling Community of Practice to demonstrate the impact of decision modeling in the mortgage process. The work product was published as FINAL in January 2023.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/the-respa-application-decision-date",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "RESPAApplicationDecisionDate.RC2 5.10.2022 (DOC)",
+          "file": "respaapplicationdecisiondate-rc2-5-10-2022-bf5420c5df.doc",
+          "url": "https://resources.mismo.org/work-products/files/application-threshold-decision-model/respaapplicationdecisiondate-rc2-5-10-2022-bf5420c5df.doc",
+          "bytes": 1460224
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-engineering-guidelines-0004-schema-language-recommendations-v1-0-x263615",
+      "title": "MISMO Engineering Guideline (MEG) 0004: Schema Profile Recommendations, V2.0",
+      "summary": "MEG 0004 wasapproved as final in September of 2025. Updates to this MEG include: Updated terminology related to MEG requirements Changed the MEG title from \"Schema Language Recommendation\" to better reflect its content MISMO work groups (WGs) developing schema will need to create containers that hold data points if a given container requirement cannot be met by a container term in the Logical Data Dictionary (LDD).",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 2,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-1-mismo-en",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MEG 0004 Schema Profile Recommendations FINAL (DOCX)",
+          "file": "meg-0004-schema-profile-recommendations-final-6d1500e1a1.docx",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guidelines-0004-schema-language-recommendations-v1-0-x263615/meg-0004-schema-profile-recommendations-final-6d1500e1a1.docx",
+          "bytes": 80907
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "property-and-valuation-services-implementation-guide",
+      "title": "Property and Valuation Services Implementation Guide",
+      "summary": "0 Property and Valuation Services (PaVS) Implementation Guide (iGuide) as Final. 6 XML Reference Model underlies the Federal Housing Finance Agency’s Uniform Mortgage Data Program (UMDP) new version of the Uniform Appraisal Dataset (UAD).",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 5,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/property-and-valuation-services-ver-1",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "WR2022 15 PaVS iGuide v3.6.0.vCR (DOCX)",
+          "file": "wr2022-15-pavs-iguide-v3-6-0-vcr-c8aae7cd66.docx",
+          "url": "https://resources.mismo.org/work-products/files/property-and-valuation-services-implementation-guide/wr2022-15-pavs-iguide-v3-6-0-vcr-c8aae7cd66.docx",
+          "bytes": 4080005
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "servicing-transfer-catalog",
+      "title": "Servicing Transfer Catalog",
+      "summary": "The MISMO's Servicing Transfer Catalog (MSTC), created by the hard work and dedication of the members of the MISMO Servicing Transfers Development Workgroup (ST DWG) , has reached “Candidate Recommendation” status, which means it has been thoroughly reviewed by a wide range of organizations and industry participants and is available for use across the industry.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/servicing-transfers-catalog",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Blockchain Outlook for the Mortgage Industry 20230623 vCR (DOCX)",
+          "file": "blockchain-outlook-for-the-mortgage-industry-20230623-vcr-16e743fba7.docx",
+          "url": "https://resources.mismo.org/work-products/files/servicing-transfer-catalog/blockchain-outlook-for-the-mortgage-industry-20230623-vcr-16e743fba7.docx",
+          "bytes": 250214
+        },
+        {
+          "name": "Comment Period MISMO iLAD 2 3 0 (ZIP)",
+          "file": "comment-period-mismo-ilad-2-3-0-f4e70b8cc7.zip",
+          "url": "https://resources.mismo.org/work-products/files/servicing-transfer-catalog/comment-period-mismo-ilad-2-3-0-f4e70b8cc7.zip",
+          "bytes": 1179516
+        },
+        {
+          "name": "Servicing Transfer Catalog 08082023 vCR (ZIP)",
+          "file": "servicing-transfer-catalog-08082023-vcr-1f16847102.zip",
+          "url": "https://resources.mismo.org/work-products/files/servicing-transfer-catalog/servicing-transfer-catalog-08082023-vcr-1f16847102.zip",
+          "bytes": 2571190
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-engineering-guideline-meg-40",
+      "title": "MISMO Engineering Guideline (MEG) 0040",
+      "summary": "MISMO Engineering Guideline (MEG) 0040 provides guidance for the Data Point and Container Definition Guidelines. MEG 0040 was approved as FINAL in July of 2021.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-1-mismo-en",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MEG 0040 FINAL July2021 (PDF)",
+          "file": "meg-0040-final-july2021-768db35689.pdf",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guideline-meg-40/meg-0040-final-july2021-768db35689.pdf",
+          "bytes": 353009
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-version-3-6-2-reference-model",
+      "title": "MISMO Version 3.6.2 Reference Model",
+      "summary": "2 of the Reference Model was published as Candidate Recommendation status on October 29, 2025. 2 of the MISMO Reference Model is a minor release with additive changes only and therefore it is expected that existing technical solutions require no change.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-36-package",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MISMO v3.6.2 B373 Reference Model Non-Members (ZIP)",
+          "file": "mismo-v3-6-2-b373-reference-model-non-members-92fecf4a65.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-6-2-reference-model/mismo-v3-6-2-b373-reference-model-non-members-92fecf4a65.zip",
+          "bytes": 4491844
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "industry-loan-application-dataset-ilad",
+      "title": "Industry Loan Application Dataset (iLAD) 2.0.1",
+      "summary": "MISMO's Industry Loan Application Dataset (iLAD) is in \"Candidate Recommendation\" (CR) status which means that it has been thoroughly reviewed by a wide range of organizations and industry participants and is available for use. 2 file.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/industry-loan-application-dataset",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "iLAD materials (ZIP)",
+          "file": "ilad-materials-f109b75852.zip",
+          "url": "https://resources.mismo.org/work-products/files/industry-loan-application-dataset-ilad/ilad-materials-f109b75852.zip",
+          "bytes": 1990779
+        },
+        {
+          "name": "iLAD materials (ZIP)",
+          "file": "ilad-materials-f109b75852.zip",
+          "url": "https://resources.mismo.org/work-products/files/industry-loan-application-dataset-ilad/ilad-materials-f109b75852.zip",
+          "bytes": 1990779
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-version-3-5",
+      "title": "MISMO Version 3.5 Reference Model",
+      "summary": "5 is in Candidate Recommendation status which means that it has been thoroughly reviewed by a wide range of organizations and industry participants and MISMO believes that it is ready for industry to use in implementations.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/residential-reference-model",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "V3.5 B344 CR 2018-04-04 PUBLICATION (ZIP)",
+          "file": "v3-5-b344-cr-2018-04-04-publication-4aa996341a.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-5/v3-5-b344-cr-2018-04-04-publication-4aa996341a.zip",
+          "bytes": 7023601
+        },
+        {
+          "name": "V3.5 B344 CR 2018-04-04 LDD (1) (ZIP)",
+          "file": "v3-5-b344-cr-2018-04-04-ldd-1-00ec87e759.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-5/v3-5-b344-cr-2018-04-04-ldd-1-00ec87e759.zip",
+          "bytes": 4484212
+        },
+        {
+          "name": "V3.5 B344 CR 2018-04-04 DOCUMENTATION (1) (ZIP)",
+          "file": "v3-5-b344-cr-2018-04-04-documentation-1-ff3fc03b83.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-5/v3-5-b344-cr-2018-04-04-documentation-1-ff3fc03b83.zip",
+          "bytes": 1265810
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "business-glossary-details",
+      "title": "Business Glossary Details",
+      "summary": "Business Glossary The MISMO Business Glossary is a business-friendly glossary of terms and definitions representing content from MISMO and non-MISMO sources. The glossary includes information about common business processes, business events, business terms, calculations, documents, forms and much more.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": null,
+      "membersOnly": false,
+      "libraryUrl": null,
+      "externalUrl": "https://resources.mismo.org/glossary/",
+      "purchaseUrl": null,
+      "files": [],
+      "aliases": [],
+      "externalLabel": "Open the Business Glossary",
+      "externalText": "Every term is searchable in the MISMO Business Glossary, open to everyone."
+    },
+    {
+      "id": "industry-recommendations",
+      "title": "Credit Reporting Industry Recommendations",
+      "summary": "Often times, industry regulations or requirements are established that have an impact on published MISMO standards. To address this issue, MISMO's Workgroups develop Recommendations for organizations that have implemented the MISMO standards.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/industry-recommendations",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "HTTPPostNameValuePairsv2.x (PDF)",
+          "file": "httppostnamevaluepairsv2-x-da00897ae5.pdf",
+          "url": "https://resources.mismo.org/work-products/files/industry-recommendations/httppostnamevaluepairsv2-x-da00897ae5.pdf",
+          "bytes": 132612
+        },
+        {
+          "name": "ImplementingCaliforniaCreditFreezeLawv2 (PDF)",
+          "file": "implementingcaliforniacreditfreezelawv2-496a6db17d.pdf",
+          "url": "https://resources.mismo.org/work-products/files/industry-recommendations/implementingcaliforniacreditfreezelawv2-496a6db17d.pdf",
+          "bytes": 166494
+        },
+        {
+          "name": "FACTActImplications&Recommendationsv2 (PDF)",
+          "file": "factactimplications-recommendationsv2-a51bac550a.pdf",
+          "url": "https://resources.mismo.org/work-products/files/industry-recommendations/factactimplications-recommendationsv2-a51bac550a.pdf",
+          "bytes": 196017
+        },
+        {
+          "name": "Credit Score Model Name Document Thru V3 6 0  Final (XLSX)",
+          "file": "credit-score-model-name-document-thru-v3-6-0-final-0248fbe97d.xlsx",
+          "url": "https://resources.mismo.org/work-products/files/industry-recommendations/credit-score-model-name-document-thru-v3-6-0-final-0248fbe97d.xlsx",
+          "bytes": 63722
+        },
+        {
+          "name": "CreditWorkgroupRiskBasedPricingDisclosuresRecommendation (PDF)",
+          "file": "creditworkgroupriskbasedpricingdisclosuresrecommendation-f0a83e3e25.pdf",
+          "url": "https://resources.mismo.org/work-products/files/industry-recommendations/creditworkgroupriskbasedpricingdisclosuresrecommendation-f0a83e3e25.pdf",
+          "bytes": 562550
+        },
+        {
+          "name": "CreditWorkgroupReissueReportingRecommendation (PDF)",
+          "file": "creditworkgroupreissuereportingrecommendation-748e0487a2.pdf",
+          "url": "https://resources.mismo.org/work-products/files/industry-recommendations/creditworkgroupreissuereportingrecommendation-748e0487a2.pdf",
+          "bytes": 100728
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "esg-reference-material-defining-data-considered-e-s",
+      "title": "ESG Reference Material - Defining Data Considered E & S",
+      "summary": "MISMO published a package of new reference material designed to identify environmental, social and governance data elements that could be leveraged by lenders, investors, and trading partners. This package was published as final in August of 2024.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/esg-reference-material-defining-d",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Define the E and S 20240731 vCR (ZIP)",
+          "file": "define-the-e-and-s-20240731-vcr-968594af74.zip",
+          "url": "https://resources.mismo.org/work-products/files/esg-reference-material-defining-data-considered-e-s/define-the-e-and-s-20240731-vcr-968594af74.zip",
+          "bytes": 385455
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "federal-government-housing-agency-servicing-dataset",
+      "title": "Federal Government Housing Agency Servicing Dataset",
+      "summary": "MISMO ® published the Federal Government Housing Agency Servicing Dataset as Candidate Recommendation status on November 20, 2025.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/federal-government-housing-agency-s-1",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "CR Federal Govt Housing Agency Servicing Dataset Version 1.00 11042025 (ZIP)",
+          "file": "cr-federal-govt-housing-agency-servicing-dataset-version-1-0-5bf908e1c5.zip",
+          "url": "https://resources.mismo.org/work-products/files/federal-government-housing-agency-servicing-dataset/cr-federal-govt-housing-agency-servicing-dataset-version-1-0-5bf908e1c5.zip",
+          "bytes": 1605637
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-engineering-guideline-meg-16",
+      "title": "MISMO Engineering Guideline (MEG) 0016",
+      "summary": "MISMO Engineering Guideline (MEG) 0016 provides a detailed definition of the contents of the MISMO Logical Data Dictionary, a catalogue of key components of the MISMO Reference Mode, and the process for adding new content. A minor change was made to MISMO Engineering Guide 0016 (MEG 0016) to provide readers with a reference to MEG 0047 for additional Unique ID guidance.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 1,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-1-mismo-en",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MEG 0016 v1.3 (DOCX)",
+          "file": "meg-0016-v1-3-66fd20d789.docx",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guideline-meg-16/meg-0016-v1-3-66fd20d789.docx",
+          "bytes": 51072
+        },
+        {
+          "name": "MEG 0016 v1.3 (DOCX)",
+          "file": "meg-0016-v1-3-66fd20d789.docx",
+          "url": "https://resources.mismo.org/work-products/files/mismo-engineering-guideline-meg-16/meg-0016-v1-3-66fd20d789.docx",
+          "bytes": 51072
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "automated-valuation-model-common-confidence-score-standard-and-guidance",
+      "title": "Automated Valuation Models",
+      "summary": "Testing Guidance and Best Practices MISMO® announced the release of the Automated Valuation Model Testing Guidance and Best Practices as Final on September 29, 2026. Common Confidence Score Standard and Guidance MISMO® published the Automated Valuation Model Common Confidence Score Standard and Guidance as Recommendation status on April 21, 2026.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 2,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/automated-valuation-model-testing-guidance-and-best-practices",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "AVM Testing Guidance and Best Practices 09.28.26 Final (DOCX)",
+          "file": "avm-testing-guidance-and-best-practices-09-28-26-final-2cdf695440.docx",
+          "url": "https://resources.mismo.org/work-products/files/automated-valuation-model-common-confidence-score-standard-and-guidance/avm-testing-guidance-and-best-practices-09-28-26-final-2cdf695440.docx",
+          "bytes": 217346
+        },
+        {
+          "name": "WR2024 18 AVM Common Confidence Score Standard and Guidance v.CR 070125 (DOCX)",
+          "file": "wr2024-18-avm-common-confidence-score-standard-and-guidance--5f72681c03.docx",
+          "url": "https://resources.mismo.org/work-products/files/automated-valuation-model-common-confidence-score-standard-and-guidance/wr2024-18-avm-common-confidence-score-standard-and-guidance--5f72681c03.docx",
+          "bytes": 87875
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "fips-code-api",
+      "title": "FIPS Code API",
+      "summary": "The FIPS Code Lending Limit API Specification illustrates how to define a standard REST based OpenAPI for searching lending limits based on a property’s postal code and county name. This specification has achieved \"Candidate Recommendation” status, which means that it has been thoroughly reviewed by a wide range of organizations and industry participants and is available for use across the industry.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/fips-code-api",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Temp1 CR Final Work Product - FIPS Code API 20230119 (ZIP)",
+          "file": "temp1-cr-final-work-product-fips-code-api-20230119-7748693f15.zip",
+          "url": "https://resources.mismo.org/work-products/files/fips-code-api/temp1-cr-final-work-product-fips-code-api-20230119-7748693f15.zip",
+          "bytes": 829346
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "flood-risk-disclosure-guide",
+      "title": "Flood Risk Disclosure Guide",
+      "summary": "MISMO® has released proposed updates to the Flood Risk Disclosure Guide for a 30-day public comment period, open through November 7, 2026. The revised guide expands beyond flood risk to give homeowners an at-a-glance overview of homeowners insurance, helping them understand what their policy covers, where common gaps exist, and when additional coverage such as flood insurance may be needed.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 1,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/flood-risk-disclosure-guide-1",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MISMO Revised Flood Risk Disclosure Guide 20260930 CP (PPTX)",
+          "file": "mismo-revised-flood-risk-disclosure-guide-20260930-cp-3ca32285f8.pptx",
+          "url": "https://resources.mismo.org/work-products/files/flood-risk-disclosure-guide/mismo-revised-flood-risk-disclosure-guide-20260930-cp-3ca32285f8.pptx",
+          "bytes": 93755
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "va-form-26-1820-report-and-certification-of-loan-disbursement",
+      "title": "VA Form 26-1820 (Report and Certification of Loan Disbursement)",
+      "summary": "VA Form 26-1820 - Report and Certification of Loan Disbursement was published as Candidate Recommendation status on March 5, 2026.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/va-form-26-1820-report-and-certifi",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "VA Report and Certification of Loan Disbursement Dataset 03.03.26 CR (XLSX)",
+          "file": "va-report-and-certification-of-loan-disbursement-dataset-03--a9b22bca47.xlsx",
+          "url": "https://resources.mismo.org/work-products/files/va-form-26-1820-report-and-certification-of-loan-disbursement/va-report-and-certification-of-loan-disbursement-dataset-03--a9b22bca47.xlsx",
+          "bytes": 4496381
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "esignatures",
+      "title": "eSignatures",
+      "summary": "This compilation, eSigned PDF Guidelines, published by MISMO, provides implementation guidance for creating electronically signed PDF documents using the Adobe PDF specification. This guidance focuses on Portable Document Format (PDF) v.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/emortgage-guides",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "eMortgageeSignedPDFGuidelinesv1.0 (PDF)",
+          "file": "emortgageesignedpdfguidelinesv1-0-3af791ea3c.pdf",
+          "url": "https://resources.mismo.org/work-products/files/esignatures/emortgageesignedpdfguidelinesv1-0-3af791ea3c.pdf",
+          "bytes": 417924
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "commercial-green-borrower-questionnaire",
+      "title": "Commercial Green Borrower Questionnaire",
+      "summary": "This industry resource standardizes questions for commercial lenders to ask borrowers when applying for a commercial mortgage loan. The questionnaire achieved \"Candidate Recommendation\" status in August of 2022, which means that it has been thoroughly reviewed by a wide range of organizations and industry participants and is available for use across the industry.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/green-borrower-questionnaire",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Green Borrower Questionnaire (DOCX)",
+          "file": "green-borrower-questionnaire-6995e30bd6.docx",
+          "url": "https://resources.mismo.org/work-products/files/commercial-green-borrower-questionnaire/green-borrower-questionnaire-6995e30bd6.docx",
+          "bytes": 96288
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "smart-doc-faq",
+      "title": "SMART Doc® FAQ",
+      "summary": "MISMO's consolidated SMART Doc ® FAQ was approved as final in September of 2024. This updated product will streamline information about two specifications into one, easily accessible document.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/smart-doc-faq",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "SMARTDocFAQs 20240716 vCR (PDF)",
+          "file": "smartdocfaqs-20240716-vcr-7465078a39.pdf",
+          "url": "https://resources.mismo.org/work-products/files/smart-doc-faq/smartdocfaqs-20240716-vcr-7465078a39.pdf",
+          "bytes": 345723
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "va-form-26-1817-va-request-for-determination-of-loan-guaranty-eligibility-unmarried-surviving-spouses",
+      "title": "VA Form 26-1817 (VA Request for Determination of Loan Guaranty Eligibility – Unmarried Surviving Spouses)",
+      "summary": "The VA Form 26-1817 mapping was published as a Candidate Recommendation in June of 2026. Unmarried Surviving Spouses who complete and send in VA Form 26-1817 are applying for a Certificate of Eligibility.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/va-form-26-1817-va-request-for-determination-of-loan-guaranty-eligibility-unmarried-surviving-spouses",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Request for Determination of Loan Guaranty Eligibility UnmarriedSurvivingSpouses VAForm26‐1817 Dataset (XLSX)",
+          "file": "request-for-determination-of-loan-guaranty-eligibility-unmar-6de3555e31.xlsx",
+          "url": "https://resources.mismo.org/work-products/files/va-form-26-1817-va-request-for-determination-of-loan-guaranty-eligibility-unmarried-surviving-spouses/request-for-determination-of-loan-guaranty-eligibility-unmar-6de3555e31.xlsx",
+          "bytes": 1661854
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "life-of-loan",
+      "title": "MISMO Life of Loan",
+      "summary": "MISMO® announced updates to the MISMO Life of Loan for a 30-day public comment period, open through October 14, 2026. The public comment period allows those who participated in the proposal at least 30-days’ notice prior to final release to review and disclose any applicable Patent Rights (as defined by MISMO’s 2018 Intellectual Property Rights Policy).",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 1,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/mismo-life-of-loan-202209",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "WR2025 27 MISMOLifeofLoan 2026.01 20260909 vCP (ZIP)",
+          "file": "wr2025-27-mismolifeofloan-2026-01-20260909-vcp-b1b2a75e89.zip",
+          "url": "https://resources.mismo.org/work-products/files/life-of-loan/wr2025-27-mismolifeofloan-2026-01-20260909-vcp-b1b2a75e89.zip",
+          "bytes": 3528640
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "document-mappings",
+      "title": "Origination Document Mappings: Loan Estimate and URLA",
+      "summary": "New rules or reporting requirements may include forms or documents such as the Know Before You Owe Loan Estimate Form. While collaborating to understand the data and model implications of these rules and requirements, workgroups often work to establish and may publish mappings from the MISMO Reference Model standards to common industry documents or forms.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/document-mappings",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "ORIGINATIONWGLoanEstimateMapping(0) (XLS)",
+          "file": "originationwgloanestimatemapping-0-619c2ff087.xls",
+          "url": "https://resources.mismo.org/work-products/files/document-mappings/originationwgloanestimatemapping-0-619c2ff087.xls",
+          "bytes": 115694
+        },
+        {
+          "name": "ORIGINATIONWGLoanEstimatePurchaseSample (PDF)",
+          "file": "originationwgloanestimatepurchasesample-8d881d1df7.pdf",
+          "url": "https://resources.mismo.org/work-products/files/document-mappings/originationwgloanestimatepurchasesample-8d881d1df7.pdf",
+          "bytes": 689312
+        },
+        {
+          "name": "ORIGINATIONWGLoanEstimateNonSellerSample (PDF)",
+          "file": "originationwgloanestimatenonsellersample-98f492ca90.pdf",
+          "url": "https://resources.mismo.org/work-products/files/document-mappings/originationwgloanestimatenonsellersample-98f492ca90.pdf",
+          "bytes": 784590
+        },
+        {
+          "name": "ORIGINATIONURLAMapping (ZIP)",
+          "file": "originationurlamapping-3f65b75f6e.zip",
+          "url": "https://resources.mismo.org/work-products/files/document-mappings/originationurlamapping-3f65b75f6e.zip",
+          "bytes": 924254
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "emortgage-glossary",
+      "title": "eMortgage Glossary",
+      "summary": "The MISMO eMortgage Glossary has been updated to include approximately 20 new terms and definitions that have been created since prior publication in 2020. It was updated in collaboration with other industry organizations to help ensure that industry professionals are using consistent language thus helping to reduce friction and increase interoperability.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": null,
+      "membersOnly": false,
+      "libraryUrl": null,
+      "externalUrl": "https://resources.mismo.org/glossary/",
+      "purchaseUrl": null,
+      "files": [],
+      "aliases": [],
+      "externalLabel": "Open the Business Glossary",
+      "externalText": "Every term is searchable in the MISMO Business Glossary, open to everyone."
+    },
+    {
+      "id": "meg-0024",
+      "title": "MISMO Engineering Guideline (MEG) 0024",
+      "summary": "MISMO Engineering Guideline (MEG) 24, which outlines the MISMO architecture development and interoperability principles for XML technologies and service requirements as identified by the MISMO constituency. MEG 24 was approved as final in June of 2023.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-1-mismo-en",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MEG 0024 v1.0 May 2023 Final (PDF)",
+          "file": "meg-0024-v1-0-may-2023-final-a471c0900a.pdf",
+          "url": "https://resources.mismo.org/work-products/files/meg-0024/meg-0024-v1-0-may-2023-final-a471c0900a.pdf",
+          "bytes": 284279
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "adverse-action-notice-dataset",
+      "title": "Adverse Action Notice Dataset",
+      "summary": "This sample Adverse Action Notice, titled Statement of Credit Denial, Termination, or Change Form and accompanying XML file, delivers crucial document data mapping capabilities that lenders can use when reporting adverse credit decisions. 6 extension).",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/adverse-action-notice-dataset",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Adverse Action Candidate Recommendation (ZIP)",
+          "file": "adverse-action-candidate-recommendation-5bfff5aab0.zip",
+          "url": "https://resources.mismo.org/work-products/files/adverse-action-notice-dataset/adverse-action-candidate-recommendation-5bfff5aab0.zip",
+          "bytes": 2374674
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "decision-modeling-cop-white-paper-ability-to-repay",
+      "title": "Ability to Repay White Paper",
+      "summary": "The Ability to Repay Decision Model and Notation white paper demonstrates how decision modeling and notation language can be used with the MISMO Logical Data Model (LDM). 5 Reference Model.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/decision-modeling-cop-white-paper",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "AbilityToRepayWhitePaper 20240621 vCR (DOCX)",
+          "file": "abilitytorepaywhitepaper-20240621-vcr-10d834f448.docx",
+          "url": "https://resources.mismo.org/work-products/files/decision-modeling-cop-white-paper-ability-to-repay/abilitytorepaywhitepaper-20240621-vcr-10d834f448.docx",
+          "bytes": 370959
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "fee-modernization-white-paper",
+      "title": "Fee Modernization White Paper",
+      "summary": "MISMO® published the MISMO Fee Modernization White Paper as Final status on May 21, 2026.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/fee-modernization-white-paper",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Fee Standardization in the Mortgage Industry 04.17.26 Final (PDF)",
+          "file": "fee-modernization-white-paper-cf26796f91.pdf",
+          "url": "https://resources.mismo.org/work-products/files/fee-modernization-white-paper/fee-modernization-white-paper-cf26796f91.pdf",
+          "bytes": 579175
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "rent-roll-dataset",
+      "title": "Commercial Rent Roll Dataset",
+      "summary": "MISMO's multifamily and commercial rent roll dataset standard includes a dataset, a logical data dictionary and a number of sample use cases to facilitate adoption. The dataset, dictionary and related sample use cases support scenarios for sharing multifamily and commercial property data between different parties.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/expanded-rent-roll-dataset-and-samp",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Commercial Rent Roll Package (ZIP)",
+          "file": "commercial-rent-roll-package-0209677657.zip",
+          "url": "https://resources.mismo.org/work-products/files/rent-roll-dataset/commercial-rent-roll-package-0209677657.zip",
+          "bytes": 322436
+        },
+        {
+          "name": "Commercial Rent Roll Package (ZIP)",
+          "file": "commercial-rent-roll-package-0209677657.zip",
+          "url": "https://resources.mismo.org/work-products/files/rent-roll-dataset/commercial-rent-roll-package-0209677657.zip",
+          "bytes": 322436
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "credit-reporting-forbearance-guide",
+      "title": "Credit Reporting Forbearance Guide",
+      "summary": "5. The Credit Reporting Forbearance Guide was approved as FINAL in June of 2022.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 5,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/credit-reporting-recommendation-on",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "CWG Recommendation - Forbearance Reporting FINAL (ZIP)",
+          "file": "cwg-recommendation-forbearance-reporting-final-1a2b6b5b6d.zip",
+          "url": "https://resources.mismo.org/work-products/files/credit-reporting-forbearance-guide/cwg-recommendation-forbearance-reporting-final-1a2b6b5b6d.zip",
+          "bytes": 105803
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "schedule-al-reg-ab-ii-mapping",
+      "title": "Schedule AL Reg AB II Mapping",
+      "summary": "MISMO and the Structured Finance Industry Group (SFIG) collaborated to develop a mapping of the data elements required to be reporting on Schedule AL, pursuant to SEC Regulation AB II. The resulting mapping will enable improved consistency, data quality and transparency across industry submissions as organizations leverage the mapping tool developed to create specifications for their Schedule AL submissions.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/schedule-al-reg-ab-ii-mapping",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Credit Score Model Name Document - V3 4 0 (2016-07-06) (XLSX)",
+          "file": "credit-score-model-name-document-v3-4-0-2016-07-06-6639843058.xlsx",
+          "url": "https://resources.mismo.org/work-products/files/schedule-al-reg-ab-ii-mapping/credit-score-model-name-document-v3-4-0-2016-07-06-6639843058.xlsx",
+          "bytes": 75356
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "emortgage-closing-guide",
+      "title": "eMortgage Closing Guide",
+      "summary": "The MISMO eMortgage Closing Guide describes general eclosing concepts, provides general guidelines for electronic closing platforms and services, and explains the legal framework surrounding electronic closing. The Guide serves as an important reference tool for those who are interested in digital / eMortgage lending.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/emortgage-eclosing-guide-version-2",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "2020 04 08 MISMO eMortgage Closing Guide Commercial Distributor Version (PDF)",
+          "file": "2020-04-08-mismo-emortgage-closing-guide-commercial-distribu-8067d9a908.pdf",
+          "url": "https://resources.mismo.org/work-products/files/emortgage-closing-guide/2020-04-08-mismo-emortgage-closing-guide-commercial-distribu-8067d9a908.pdf",
+          "bytes": 939488
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "logical-data-model-3-6",
+      "title": "Logical Data Model Version 3.6",
+      "summary": "MISMO's Logical Data Model (LDM) is a business centric model that makes it easier for organizations to communicate regardless of the technologies they choose to use for communicating with business partners.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-36-package",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "V3.6 Logical Data Model CR (ZIP)",
+          "file": "v3-6-logical-data-model-cr-bff032918b.zip",
+          "url": "https://resources.mismo.org/work-products/files/logical-data-model-3-6/v3-6-logical-data-model-cr-bff032918b.zip",
+          "bytes": 2647648
+        },
+        {
+          "name": "V3.6 Logical Data Model CR (ZIP)",
+          "file": "v3-6-logical-data-model-cr-bff032918b.zip",
+          "url": "https://resources.mismo.org/work-products/files/logical-data-model-3-6/v3-6-logical-data-model-cr-bff032918b.zip",
+          "bytes": 2647648
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mismo-version-3-1",
+      "title": "MISMO Version 3.1 Reference Model",
+      "summary": "1 is in Recommendation status which is the highest possible maturity level for a MISMO standard. A Recommendation has been thoroughly reviewed and implemented by a wide range of organizations and industry participants.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 3,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-31-referenc",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "V3 1 R 2011-04 (ZIP)",
+          "file": "v3-1-r-2011-04-0571267525.zip",
+          "url": "https://resources.mismo.org/work-products/files/mismo-version-3-1/v3-1-r-2011-04-0571267525.zip",
+          "bytes": 1433538
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "va-form-26-1880",
+      "title": "VA Form 26-1880 (Certificate of Eligibility)",
+      "summary": "The VA Form 26-1880 was published as a Candidate Recommendation in June of 2026. Veterans who complete and send in VA Form 26-1880 are applying for a Certificate of Eligibility.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/va-form-26-1880-1",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Request for Certificate of Eligibility VA Form 26-1880  Dataset (XLSX)",
+          "file": "request-for-certificate-of-eligibility-va-form-26-1880-datas-288ac3b347.xlsx",
+          "url": "https://resources.mismo.org/work-products/files/va-form-26-1880/request-for-certificate-of-eligibility-va-form-26-1880-datas-288ac3b347.xlsx",
+          "bytes": 2282936
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "eclosing-white-paper",
+      "title": "eClosing White Paper",
+      "summary": "MISMO® published the eClosing White Paper as Candidate Recommendation status on July 9, 2026. The paper provides guidance for originators, warehouse lenders, investors, and technology providers to implement digital mortgage solutions.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/eclosing-white-paper",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "WR2024 09 eCloseWhitePaper VCR (ZIP)",
+          "file": "wr2024-09-eclosewhitepaper-vcr-617c8cb4b8.zip",
+          "url": "https://resources.mismo.org/work-products/files/eclosing-white-paper/wr2024-09-eclosewhitepaper-vcr-617c8cb4b8.zip",
+          "bytes": 111342
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "entity-relationship-model",
+      "title": "Entity Relationship Model",
+      "summary": "MISMO's Entity Relationship Model (ER Model) supports database engineering and general data management functions, resulting in quicker application development and deployment schedules, while helping to reduce errors that result from proprietary implementations. 5 of the overall MISMO Logical Data Model , and is designed to improve how mortgage organizations store and manage data built using MISMO standards.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": null,
+      "membersOnly": true,
+      "libraryUrl": "https://www.mismo.org/viewdocument/entity-relationship-er-model-post",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [],
+      "aliases": []
+    },
+    {
+      "id": "meg-45",
+      "title": "MISMO Engineering Guideline (MEG) 0045",
+      "summary": "0 Minor edits for clarity MEG 0045 creates a representation of the MISMO data objects and structures in a format that is easily consumed by API tools. Use of these representations will allow API developers to utilize the MISMO data standard more readily and will also facilitate the use of the MISMO data standard in JSON messages.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/version-1-mismo-en",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "MEG 0045 v1.1 (DOCX)",
+          "file": "meg-0045-v1-1-5f2c4cca51.docx",
+          "url": "https://resources.mismo.org/work-products/files/meg-45/meg-0045-v1-1-5f2c4cca51.docx",
+          "bytes": 103864
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "housing-counseling-dataset-specification",
+      "title": "Housing Counseling Dataset Specification",
+      "summary": "1 was published as Candidate Recommendation status on March 26, 2026. The Housing Counseling Dataset establishes a framework for exchanging information about housing counseling sessions, borrower participation, and outcomes.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/housing-counseling-dataset-specific",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "WR 2025 09 HousingCounselingDatasetv1.1 vCR (ZIP)",
+          "file": "wr-2025-09-housingcounselingdatasetv1-1-vcr-ed58be9af8.zip",
+          "url": "https://resources.mismo.org/work-products/files/housing-counseling-dataset-specification/wr-2025-09-housingcounselingdatasetv1-1-vcr-ed58be9af8.zip",
+          "bytes": 1580179
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "evault-standards-and-smart-doc-validation-rules",
+      "title": "eVault Standards and SMART Doc® Validation Rules",
+      "summary": "MISMO published revisions to the eVault Standards and SMART Doc® Validation Rules as Final status on October 6, 2025. The MISMO eVault standards were designed to ensure that eVaults have the proper functionality for all industry participants.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/evault-standards-and-smart-doc-val",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "WR 2025 25 eVaultStandardsv1.1 vCR (ZIP)",
+          "file": "wr-2025-25-evaultstandardsv1-1-vcr-82276fdb43.zip",
+          "url": "https://resources.mismo.org/work-products/files/evault-standards-and-smart-doc-validation-rules/wr-2025-25-evaultstandardsv1-1-vcr-82276fdb43.zip",
+          "bytes": 1497740
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "api-toolkit",
+      "title": "API Toolkit 1.0",
+      "summary": "The MISMO API (application programming interface) Toolkit, which is available to MISMO Members, will help facilitate rapid development of new products and applications across the mortgage industry. org .",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": null,
+      "membersOnly": true,
+      "libraryUrl": "https://www.mismo.org/viewdocument/api-toolkit",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [],
+      "aliases": []
+    },
+    {
+      "id": "closing-instructions-enhanced",
+      "title": "Enhanced Closing Instruction Templates and XML Mapping Specification",
+      "summary": "The enhanced Master and Transactional Closing Instruction templates, the Closing Instructions iGuide and the Transactional Closing Instruction XML mapping specification, created by the Closing Instructions Development Workgroup.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/enhanced-closing-instruction-templa",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Enhanced Closing Instruction Templates, iGuide and XML Mapping (ZIP)",
+          "file": "closing-instructions-enhanced-vcr-d5a4213168.zip",
+          "url": "https://resources.mismo.org/work-products/files/closing-instructions-enhanced/closing-instructions-enhanced-vcr-d5a4213168.zip",
+          "bytes": 2034434
+        }
+      ],
+      "aliases": [
+        "Enhanced Closing Instruction Templates",
+        "Closing Instructions"
+      ]
+    },
+    {
+      "id": "closing-instructions-commercial",
+      "title": "Closing Instruction Templates and Implementation Guide (Commercial Use Version)",
+      "summary": "The 2020 Master and Transactional Closing Instruction templates and iGuide, Commercial Distributor version.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 4,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/closing-instruction-templates-and-i-2",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Commercial Distributor Version: Master and Transactional Templates and iGuide (ZIP)",
+          "file": "closing-instructions-commercial-distributor-bundle-8c16d43a7c.zip",
+          "url": "https://resources.mismo.org/work-products/files/closing-instructions-commercial/closing-instructions-commercial-distributor-bundle-8c16d43a7c.zip",
+          "bytes": 1740955
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "closing-instructions-non-commercial",
+      "title": "Closing Instruction Templates and Implementation Guide (Non-Commercial Use Version)",
+      "summary": "The 2020 Master and Transactional Closing Instruction templates and iGuide, Non-Commercial Distributor version.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 5,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/closing-instruction-templates-and-i-1",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Non-Commercial Distributor Version: Master and Transactional Templates and iGuide (ZIP)",
+          "file": "closing-instructions-non-commercial-distributor-bundle-b05ae58657.zip",
+          "url": "https://resources.mismo.org/work-products/files/closing-instructions-non-commercial/closing-instructions-non-commercial-distributor-bundle-b05ae58657.zip",
+          "bytes": 1549360
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "id": "closing-instructions-internal",
+      "title": "Closing Instruction Templates and Implementation Guide (Internal Use Only Version)",
+      "summary": "The 2020 Master and Transactional Closing Instruction templates and iGuide, Internal Use Only version.",
+      "category": null,
+      "version": null,
+      "status": null,
+      "published": null,
+      "license": 2,
+      "membersOnly": false,
+      "libraryUrl": "https://www.mismo.org/viewdocument/closing-instruction-templates-and-i",
+      "externalUrl": null,
+      "purchaseUrl": null,
+      "files": [
+        {
+          "name": "Internal Use Only Version: Master and Transactional Templates and iGuide (ZIP)",
+          "file": "closing-instructions-internal-use-only-bundle-d2e4942580.zip",
+          "url": "https://resources.mismo.org/work-products/files/closing-instructions-internal/closing-instructions-internal-use-only-bundle-d2e4942580.zip",
+          "bytes": 1511671
+        }
+      ],
+      "aliases": []
+    }
+  ]
+}
