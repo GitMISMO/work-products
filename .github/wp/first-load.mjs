@@ -10,9 +10,7 @@ const MAX = 100 * 1024 * 1024;
 const js = await (await fetch(CAT)).text();
 const ctx = { window: {} }; vm.createContext(ctx); vm.runInContext(js, ctx);
 const C = ctx.window.MISMO_CATALOG; if (!C || !C.P) throw new Error('No MISMO_CATALOG in ' + CAT);
-const ent = { '&nbsp;': ' ', '&amp;': '&', '&quot;': '"', '&#39;': "'", '&rsquo;': '’', '&lsquo;': '‘', '&ldquo;': '“', '&rdquo;': '”', '&ndash;': '–', '&mdash;': '—', '&reg;': '®', '&trade;': '™', '&lt;': '<', '&gt;': '>' };
-const text = h => String(h || '').replace(/<[^>]+>/g, ' ').replace(/&[a-z#0-9]+;/gi, m => ent[m] || ' ').replace(/\s+/g, ' ').trim();
-const summary = h => { const t = text(h); const s = t.match(/[^.!?]+[.!?]+(\s|$)/g) || [t]; let out = s.slice(0, 2).join('').trim(); if (out.length > 420) out = (s[0] || t).trim().slice(0, 420); return out; };
+import { summary } from './text.mjs';
 const products = [], big = [], missing = [], noFiles = [];
 for (const [id, p] of Object.entries(C.P)) {
   const files = [];
