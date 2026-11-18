@@ -7,6 +7,14 @@ on:
         description: Copy the website's current list and files (first load)
         type: boolean
         default: false
+      summaries:
+        description: Rebuild the first-load summaries (sentence fix)
+        type: boolean
+        default: false
+      patch:
+        description: 'Change products, as JSON: {"<id>":{"field":value}}'
+        type: string
+        default: ''
   push:
     branches: [main]
     paths: ['data/**']
@@ -23,12 +31,18 @@ jobs:
       - name: First load
         if: ${{ github.event_name == 'workflow_dispatch' && inputs.firstLoad }}
         run: node .github/wp/first-load.mjs
+      - name: Fixes
+        if: ${{ github.event_name == 'workflow_dispatch' && (inputs.summaries || inputs.patch != '') }}
+        env:
+          SUMMARIES: ${{ inputs.summaries }}
+          PATCH: ${{ inputs.patch }}
+        run: node .github/wp/fix.mjs
       - name: Build catalog.json
         run: node .github/wp/build-catalog.mjs
       - name: Save
         run: |
           git config user.name "MMS Work Products"; git config user.email "workrequests@mismo.org"
-          git add -A files data catalog.json report.json 2>/dev/null || git add -A
+          git add -A
           if git diff --cached --quiet; then echo "Nothing to save"; exit 0; fi
           git commit -q -m "Work products: catalog.json rebuilt"
           for i in 1 2 3; do git pull --rebase -q && git push -q && exit 0; sleep 5; done; exit 1
