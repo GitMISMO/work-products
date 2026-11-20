@@ -11,6 +11,10 @@ on:
         description: Rebuild the first-load summaries (sentence fix)
         type: boolean
         default: false
+      repair:
+        description: Check every saved file and copy damaged ones again from the originals
+        type: boolean
+        default: false
       patch:
         description: 'Change products, as JSON: {"<id>":{"field":value}}'
         type: string
@@ -37,6 +41,9 @@ jobs:
           SUMMARIES: ${{ inputs.summaries }}
           PATCH: ${{ inputs.patch }}
         run: node .github/wp/fix.mjs
+      - name: Repair damaged files
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.repair }}
+        run: node .github/wp/repair.mjs
       - name: Build catalog.json
         run: node .github/wp/build-catalog.mjs
       - name: Save
