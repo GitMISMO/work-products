@@ -10,7 +10,7 @@ const MAX = 100 * 1024 * 1024;
 const js = await (await fetch(CAT)).text();
 const ctx = { window: {} }; vm.createContext(ctx); vm.runInContext(js, ctx);
 const C = ctx.window.MISMO_CATALOG; if (!C || !C.P) throw new Error('No MISMO_CATALOG in ' + CAT);
-import { summary } from './text.mjs';
+import { summary } from './text.mjs'; import { checkBuf } from './filecheck.mjs';
 const products = [], big = [], missing = [], noFiles = [];
 for (const [id, p] of Object.entries(C.P)) {
   const files = [];
@@ -21,6 +21,8 @@ for (const [id, p] of Object.entries(C.P)) {
       const r = await fetch(SRC + encodeURIComponent(f.f));
       if (!r.ok) { missing.push({ id, file: f.f, status: r.status }); continue; }
       const buf = Buffer.from(await r.arrayBuffer());
+      const want = Number(r.headers.get('content-length') || buf.length), bad = buf.length !== want ? 'arrived incomplete' : checkBuf(buf, f.f);
+      if (bad) { missing.push({ id, file: f.f, status: bad }); continue; }
       if (buf.length > MAX) { big.push({ id, file: f.f, mb: +(buf.length / 1048576).toFixed(1) }); continue; }
       fs.mkdirSync(path.dirname(dest), { recursive: true }); fs.writeFileSync(dest, buf); bytes = buf.length;
     }
