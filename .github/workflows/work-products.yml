@@ -21,7 +21,7 @@ on:
         default: ''
   push:
     branches: [main]
-    paths: ['data/**']
+    paths: ['data/**', 'incoming/**']
 permissions:
   contents: write
 concurrency: { group: work-products, cancel-in-progress: false }
@@ -42,7 +42,7 @@ jobs:
           PATCH: ${{ inputs.patch }}
         run: node .github/wp/fix.mjs
       - name: Repair damaged files
-        if: ${{ github.event_name == 'workflow_dispatch' && inputs.repair }}
+        if: ${{ (github.event_name == 'workflow_dispatch' && inputs.repair) || (github.event_name == 'push' && hashFiles('incoming/**') != '') }}
         run: node .github/wp/repair.mjs
       - name: Build catalog.json
         run: node .github/wp/build-catalog.mjs
