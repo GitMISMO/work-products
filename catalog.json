@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T15:00:03Z",
+  "updated": "2026-11-20T15:28:30Z",
   "source": "MISMO Manufacturing System",
   "count": 129,
   "products": [
@@ -1083,7 +1083,7 @@
       "published": "2026-11-20",
       "license": 4,
       "membersOnly": false,
-      "libraryUrl": null,
+      "libraryUrl": "https://www.mismo.org/viewdocument/flood-risk-disclosure-guide-1",
       "externalUrl": null,
       "purchaseUrl": null,
       "files": [
