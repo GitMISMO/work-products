@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T17:00:11Z",
+  "updated": "2026-11-20T17:08:54Z",
   "source": "MISMO Manufacturing System",
   "count": 129,
   "products": [
@@ -2230,7 +2230,7 @@
           "name": "V3.3.0 R 2017-04 PUBLICATION (ZIP)",
           "file": "v3-3-0-r-2017-04-publication-262f067d72.zip",
           "url": "https://resources.mismo.org/work-products/files/mismo-version-3-3/v3-3-0-r-2017-04-publication-262f067d72.zip",
-          "bytes": 3409842
+          "bytes": 8652722
         },
         {
           "name": "V3.3.0 R 2017-04 LDD (ZIP)",

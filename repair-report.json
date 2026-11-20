@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-20T17:00:11Z",
+  "at": "2026-11-20T17:08:54Z",
   "source": "https://higherlogicdownload.s3.amazonaws.com/MISMO/b0af7660-1193-44cf-ad90-4073559f7527/UploadedImages/Standards_Downloads/",
   "checked": {
     "files": 260,
@@ -7,12 +7,12 @@
   },
   "fixed": [
     {
-      "id": "mortgage-compliance-dataset-mcd",
-      "file": "wr2025-01-enhanced-mortgage-compliance-dataset-f7d1c119c0.zip",
+      "id": "mismo-version-3-3",
+      "file": "v3-3-0-r-2017-04-publication-262f067d72.zip",
       "problem": "does not start with \"PK\"",
-      "savedBytes": 2769727,
+      "savedBytes": 3409842,
       "from": "incoming",
-      "bytes": 8012607
+      "bytes": 8652722
     }
   ],
   "failed": [
@@ -77,13 +77,6 @@
       "file": "wr2023-02-securityinstrument-vcr-6bee502d89.zip",
       "problem": "does not start with \"PK\"",
       "savedBytes": 37499894,
-      "why": "the original does not start with \"PK\""
-    },
-    {
-      "id": "mismo-version-3-3",
-      "file": "v3-3-0-r-2017-04-publication-262f067d72.zip",
-      "problem": "does not start with \"PK\"",
-      "savedBytes": 3409842,
       "why": "the original does not start with \"PK\""
     },
     {
