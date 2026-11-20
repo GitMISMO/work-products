@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T17:32:44Z",
+  "updated": "2026-11-20T20:04:30Z",
   "source": "MISMO Manufacturing System",
   "count": 129,
   "products": [
@@ -3040,7 +3040,7 @@
           "name": "WR2023 02 SecurityInstrument vCR (ZIP)",
           "file": "wr2023-02-securityinstrument-vcr-6bee502d89.zip",
           "url": "https://resources.mismo.org/work-products/files/smart-doc-v3-security-instrument-specification/wr2023-02-securityinstrument-vcr-6bee502d89.zip",
-          "bytes": 37499894
+          "bytes": 42742774
         }
       ],
       "aliases": []

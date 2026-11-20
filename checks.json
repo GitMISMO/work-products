@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-20T17:32:44Z",
+  "at": "2026-11-20T20:04:30Z",
   "products": 129,
   "filesWithoutLicense": [],
   "badFiles": [
@@ -31,11 +31,6 @@
     {
       "id": "mismo-version-3-6-1-reference-model",
       "file": "mismo-reference-model-v3-6-1-cr-non-member-1b3d7ede52.zip",
-      "problem": "does not start with \"PK\""
-    },
-    {
-      "id": "smart-doc-v3-security-instrument-specification",
-      "file": "wr2023-02-securityinstrument-vcr-6bee502d89.zip",
       "problem": "does not start with \"PK\""
     }
   ]

@@ -1,11 +1,20 @@
 {
-  "at": "2026-11-20T20:02:04Z",
+  "at": "2026-11-20T20:04:30Z",
   "source": "https://higherlogicdownload.s3.amazonaws.com/MISMO/b0af7660-1193-44cf-ad90-4073559f7527/UploadedImages/Standards_Downloads/",
   "checked": {
     "files": 260,
     "zips": 155
   },
-  "fixed": [],
+  "fixed": [
+    {
+      "id": "smart-doc-v3-security-instrument-specification",
+      "file": "wr2023-02-securityinstrument-vcr-6bee502d89.zip",
+      "problem": "is 37,499,894 bytes, not 42,742,774",
+      "savedBytes": 37499894,
+      "from": "incoming",
+      "bytes": 42742774
+    }
+  ],
   "failed": [
     {
       "id": "mismo-version-3-6-1-reference-model",
@@ -34,14 +43,6 @@
       "problem": "does not start with \"PK\"",
       "savedBytes": 13768218,
       "why": "the original does not start with \"PK\""
-    },
-    {
-      "id": "smart-doc-v3-security-instrument-specification",
-      "file": "wr2023-02-securityinstrument-vcr-6bee502d89.zip",
-      "problem": "does not start with \"PK\"",
-      "savedBytes": 37499894,
-      "from": "incoming",
-      "why": "the original has no zip directory at its end"
     },
     {
       "id": "logical-data-model-3-6",
