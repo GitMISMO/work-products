@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-20T16:35:39Z",
+  "at": "2026-11-20T17:00:11Z",
   "products": 129,
   "filesWithoutLicense": [],
   "badFiles": [
@@ -71,11 +71,6 @@
     {
       "id": "mismo-version-3-6-1-reference-model",
       "file": "mismo-reference-model-v3-6-1-cr-non-member-1b3d7ede52.zip",
-      "problem": "does not start with \"PK\""
-    },
-    {
-      "id": "mortgage-compliance-dataset-mcd",
-      "file": "wr2025-01-enhanced-mortgage-compliance-dataset-f7d1c119c0.zip",
       "problem": "does not start with \"PK\""
     },
     {

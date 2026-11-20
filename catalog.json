@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T15:28:30Z",
+  "updated": "2026-11-20T17:00:11Z",
   "source": "MISMO Manufacturing System",
   "count": 129,
   "products": [
@@ -2474,7 +2474,7 @@
           "name": "WR2025 01 Enhanced Mortgage Compliance Dataset (ZIP)",
           "file": "wr2025-01-enhanced-mortgage-compliance-dataset-f7d1c119c0.zip",
           "url": "https://resources.mismo.org/work-products/files/mortgage-compliance-dataset-mcd/wr2025-01-enhanced-mortgage-compliance-dataset-f7d1c119c0.zip",
-          "bytes": 2769727
+          "bytes": 8012607
         }
       ],
       "aliases": []
