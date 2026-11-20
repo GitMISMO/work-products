@@ -3031,26 +3031,30 @@
     },
     {
       "id": "flood-risk-disclosure-guide",
-      "title": "Flood Risk Disclosure Guide",
-      "summary": "MISMO® has released proposed updates to the Flood Risk Disclosure Guide for a 30-day public comment period, open through November 7, 2026. The revised guide expands beyond flood risk to give homeowners an at-a-glance overview of homeowners insurance, helping them understand what their policy covers, where common gaps exist, and when additional coverage such as flood insurance may be needed.",
+      "title": "Homeowners Insurance Disclosure",
+      "summary": "The Homeowners Insurance Disclosure gives homeowners an at-a-glance overview of homeowners insurance: what their policy covers, where common gaps exist, and when additional coverage such as flood insurance may be needed. It replaces MISMO’s Flood Risk Disclosure Guide.",
       "category": null,
-      "version": null,
-      "status": null,
-      "published": null,
-      "license": 1,
+      "version": "WR2025-24",
+      "status": "Final",
+      "published": "2026-11-20",
+      "license": 4,
       "membersOnly": false,
-      "libraryUrl": "https://www.mismo.org/viewdocument/flood-risk-disclosure-guide-1",
+      "libraryUrl": null,
       "externalUrl": null,
       "purchaseUrl": null,
       "files": [
         {
-          "name": "MISMO Revised Flood Risk Disclosure Guide 20260930 CP (PPTX)",
-          "file": "mismo-revised-flood-risk-disclosure-guide-20260930-cp-3ca32285f8.pptx",
-          "url": "https://resources.mismo.org/work-products/files/flood-risk-disclosure-guide/mismo-revised-flood-risk-disclosure-guide-20260930-cp-3ca32285f8.pptx",
-          "bytes": 93755
+          "name": "MISMO Homeowners Insurance Disclosure Final (PDF)",
+          "file": "mismo-homeowners-insurance-disclosure-final.pdf",
+          "url": "https://resources.mismo.org/work-products/files/flood-risk-disclosure-guide/mismo-homeowners-insurance-disclosure-final.pdf",
+          "bytes": 331946
         }
       ],
-      "aliases": []
+      "aliases": [
+        "Flood Risk Disclosure Guide",
+        "Homeowners Insurance Guide"
+      ],
+      "ticket": "WR2025_24"
     },
     {
       "id": "va-form-26-1820-report-and-certification-of-loan-disbursement",
