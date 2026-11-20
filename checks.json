@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-20T17:12:50Z",
+  "at": "2026-11-20T17:15:28Z",
   "products": 129,
   "filesWithoutLicense": [],
   "badFiles": [
@@ -51,11 +51,6 @@
     {
       "id": "smart-doc-v3-security-instrument-specification",
       "file": "wr2023-02-securityinstrument-vcr-6bee502d89.zip",
-      "problem": "does not start with \"PK\""
-    },
-    {
-      "id": "title-and-closing-dataset-specifications",
-      "file": "title-and-closing-dataset-specification-10-24-2023-vcr-796cfccceb.zip",
       "problem": "does not start with \"PK\""
     }
   ]
