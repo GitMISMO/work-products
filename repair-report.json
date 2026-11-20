@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-20T17:11:05Z",
+  "at": "2026-11-20T17:11:57Z",
   "source": "https://higherlogicdownload.s3.amazonaws.com/MISMO/b0af7660-1193-44cf-ad90-4073559f7527/UploadedImages/Standards_Downloads/",
   "checked": {
     "files": 260,
@@ -7,12 +7,12 @@
   },
   "fixed": [
     {
-      "id": "mismo-version-3-4",
-      "file": "v3-4-b324-cr-2016-01-28-publication-43cac18774.zip",
+      "id": "mismo-version-3-5",
+      "file": "v3-5-b344-cr-2018-04-04-publication-4aa996341a.zip",
       "problem": "does not start with \"PK\"",
-      "savedBytes": 6874093,
+      "savedBytes": 7023601,
       "from": "incoming",
-      "bytes": 12116973
+      "bytes": 12266481
     }
   ],
   "failed": [
@@ -84,13 +84,6 @@
       "file": "wr-2024-19-eheloc-faq-20260901-vcp-2ac59cde3e.zip",
       "problem": "does not start with \"PK\"",
       "savedBytes": 247423,
-      "why": "the original does not start with \"PK\""
-    },
-    {
-      "id": "mismo-version-3-5",
-      "file": "v3-5-b344-cr-2018-04-04-publication-4aa996341a.zip",
-      "problem": "does not start with \"PK\"",
-      "savedBytes": 7023601,
       "why": "the original does not start with \"PK\""
     },
     {
