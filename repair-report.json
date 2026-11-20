@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-20T17:10:03Z",
+  "at": "2026-11-20T17:11:05Z",
   "source": "https://higherlogicdownload.s3.amazonaws.com/MISMO/b0af7660-1193-44cf-ad90-4073559f7527/UploadedImages/Standards_Downloads/",
   "checked": {
     "files": 260,
@@ -7,12 +7,12 @@
   },
   "fixed": [
     {
-      "id": "mismo-version-3-3-1",
-      "file": "v3-3-1b307-cr-2015-01-06-publication-5e91aa1484.zip",
+      "id": "mismo-version-3-4",
+      "file": "v3-4-b324-cr-2016-01-28-publication-43cac18774.zip",
       "problem": "does not start with \"PK\"",
-      "savedBytes": 11727766,
+      "savedBytes": 6874093,
       "from": "incoming",
-      "bytes": 16970646
+      "bytes": 12116973
     }
   ],
   "failed": [
@@ -28,13 +28,6 @@
       "file": "v3-3-1b307-cr-2015-01-06-ldd-4ff8c55500.zip",
       "problem": "does not start with \"PK\"",
       "savedBytes": 2211490,
-      "why": "the original does not start with \"PK\""
-    },
-    {
-      "id": "mismo-version-3-4",
-      "file": "v3-4-b324-cr-2016-01-28-publication-43cac18774.zip",
-      "problem": "does not start with \"PK\"",
-      "savedBytes": 6874093,
       "why": "the original does not start with \"PK\""
     },
     {
