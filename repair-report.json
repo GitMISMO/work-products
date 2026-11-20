@@ -1,28 +1,11 @@
 {
-  "at": "2026-11-20T17:12:50Z",
+  "at": "2026-11-20T17:14:39Z",
   "source": "https://higherlogicdownload.s3.amazonaws.com/MISMO/b0af7660-1193-44cf-ad90-4073559f7527/UploadedImages/Standards_Downloads/",
   "checked": {
     "files": 260,
     "zips": 155
   },
-  "fixed": [
-    {
-      "id": "smart-doc-version-3",
-      "file": "wr-2026-04-smartdocv3iguideupdates-vcp-3df3cff8c7.zip",
-      "problem": "does not start with \"PK\"",
-      "savedBytes": 3599499,
-      "from": "incoming",
-      "bytes": 8842379
-    },
-    {
-      "id": "eheloc-faq",
-      "file": "wr-2024-19-eheloc-faq-20260901-vcp-2ac59cde3e.zip",
-      "problem": "does not start with \"PK\"",
-      "savedBytes": 247423,
-      "from": "incoming",
-      "bytes": 5490303
-    }
-  ],
+  "fixed": [],
   "failed": [
     {
       "id": "mismo-version-3-6-1-reference-model",
