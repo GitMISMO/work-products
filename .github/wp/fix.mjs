@@ -2,7 +2,7 @@
    SUMMARIES=1  rebuilds the summaries of the products that came from the website's first load (not ones the MMS
                 published) from their full descriptions, with the Nov 18 sentence fix.
    PATCH='{"<id>":{"field":value}}'  changes fields of listed products (ids never change). */
-import fs from 'node:fs'; import path from 'node:path'; import vm from 'node:vm'; import { summary } from './text.mjs';
+import fs from 'node:fs'; import path from 'node:path'; import vm from 'node:vm'; import { summary } from './text.mjs'; import { checkBuf } from './filecheck.mjs';
 const d = JSON.parse(fs.readFileSync('data/products.json', 'utf8')); const L = d.products || []; let n = 0;
 if (process.env.SUMMARIES === '1' || process.env.SUMMARIES === 'true') {
   const js = await (await fetch(d.loadedFrom)).text(); const ctx = { window: {} }; vm.createContext(ctx); vm.runInContext(js, ctx);
@@ -21,6 +21,12 @@ if (P) { const ch = JSON.parse(P); for (const [id, f] of Object.entries(ch)) {
   delete f.id; delete f._add;
   if (Array.isArray(f.files)) { f.files = f.files.map(x => { const dest = path.join('files', id, x.file);
     if (x.from && !fs.existsSync(dest)) { fs.mkdirSync(path.dirname(dest), { recursive: true }); fs.copyFileSync(x.from, dest); }
+    if (!fs.existsSync(dest) && fs.existsSync('incoming')) {   /* a new file put in incoming/, whole or in numbered parts (Nov 20) */
+      const whole = path.join('incoming', x.file), parts = fs.readdirSync('incoming').filter(n => n.startsWith(x.file + '.part')).sort();
+      const src = fs.existsSync(whole) ? [whole] : parts.map(n => path.join('incoming', n));
+      if (src.length) { const buf = Buffer.concat(src.map(f => fs.readFileSync(f))); const bad = checkBuf(buf, x.file); if (bad) throw new Error(x.file + ' ' + bad);
+        fs.mkdirSync(path.dirname(dest), { recursive: true }); fs.writeFileSync(dest, buf); src.forEach(f => fs.rmSync(f));
+        if (!fs.readdirSync('incoming').length) fs.rmSync('incoming', { recursive: true }); } }
     if (!fs.existsSync(dest)) throw new Error('No file ' + dest);
     return { name: x.name, file: x.file, url: PUB + encodeURIComponent(id) + '/' + encodeURIComponent(x.file), bytes: fs.statSync(dest).size }; }); }
   Object.assign(p, f); n++; console.log('Changed', id, Object.keys(f).join(', ')); } }
