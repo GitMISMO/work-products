@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-20T17:32:15Z",
+  "at": "2026-11-20T17:32:44Z",
   "products": 129,
   "filesWithoutLicense": [],
   "badFiles": [
@@ -21,11 +21,6 @@
     {
       "id": "mismo-version-3-4",
       "file": "v3-4-b324-r-2016-01-28-ldd-911707be46.zip",
-      "problem": "does not start with \"PK\""
-    },
-    {
-      "id": "mismo-version-3-5",
-      "file": "v3-5-b344-cr-2018-04-04-ldd-1-00ec87e759.zip",
       "problem": "does not start with \"PK\""
     },
     {
