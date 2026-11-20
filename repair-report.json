@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-20T17:11:57Z",
+  "at": "2026-11-20T17:12:50Z",
   "source": "https://higherlogicdownload.s3.amazonaws.com/MISMO/b0af7660-1193-44cf-ad90-4073559f7527/UploadedImages/Standards_Downloads/",
   "checked": {
     "files": 260,
@@ -7,12 +7,20 @@
   },
   "fixed": [
     {
-      "id": "mismo-version-3-5",
-      "file": "v3-5-b344-cr-2018-04-04-publication-4aa996341a.zip",
+      "id": "smart-doc-version-3",
+      "file": "wr-2026-04-smartdocv3iguideupdates-vcp-3df3cff8c7.zip",
       "problem": "does not start with \"PK\"",
-      "savedBytes": 7023601,
+      "savedBytes": 3599499,
       "from": "incoming",
-      "bytes": 12266481
+      "bytes": 8842379
+    },
+    {
+      "id": "eheloc-faq",
+      "file": "wr-2024-19-eheloc-faq-20260901-vcp-2ac59cde3e.zip",
+      "problem": "does not start with \"PK\"",
+      "savedBytes": 247423,
+      "from": "incoming",
+      "bytes": 5490303
     }
   ],
   "failed": [
@@ -45,13 +53,6 @@
       "why": "the original does not start with \"PK\""
     },
     {
-      "id": "smart-doc-version-3",
-      "file": "wr-2026-04-smartdocv3iguideupdates-vcp-3df3cff8c7.zip",
-      "problem": "does not start with \"PK\"",
-      "savedBytes": 3599499,
-      "why": "the original does not start with \"PK\""
-    },
-    {
       "id": "mismo-version-3-6",
       "file": "mismo-reference-model-version-3-6-cr-77014ba9cc.zip",
       "problem": "does not start with \"PK\"",
@@ -77,13 +78,6 @@
       "file": "title-and-closing-dataset-specification-10-24-2023-vcr-796cfccceb.zip",
       "problem": "does not start with \"PK\"",
       "savedBytes": 7761049,
-      "why": "the original does not start with \"PK\""
-    },
-    {
-      "id": "eheloc-faq",
-      "file": "wr-2024-19-eheloc-faq-20260901-vcp-2ac59cde3e.zip",
-      "problem": "does not start with \"PK\"",
-      "savedBytes": 247423,
       "why": "the original does not start with \"PK\""
     },
     {

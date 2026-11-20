@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T17:11:57Z",
+  "updated": "2026-11-20T17:12:50Z",
   "source": "MISMO Manufacturing System",
   "count": 129,
   "products": [
@@ -742,7 +742,7 @@
           "name": "WR 2024 19 eHELOC FAQ 20260901 vCP (ZIP)",
           "file": "wr-2024-19-eheloc-faq-20260901-vcp-2ac59cde3e.zip",
           "url": "https://resources.mismo.org/work-products/files/eheloc-faq/wr-2024-19-eheloc-faq-20260901-vcp-2ac59cde3e.zip",
-          "bytes": 247423
+          "bytes": 5490303
         }
       ],
       "aliases": []
@@ -3063,7 +3063,7 @@
           "name": "WR 2026 04 SMARTDOCV3iGuideUpdates vCP (ZIP)",
           "file": "wr-2026-04-smartdocv3iguideupdates-vcp-3df3cff8c7.zip",
           "url": "https://resources.mismo.org/work-products/files/smart-doc-version-3/wr-2026-04-smartdocv3iguideupdates-vcp-3df3cff8c7.zip",
-          "bytes": 3599499
+          "bytes": 8842379
         }
       ],
       "aliases": []

@@ -1,13 +1,8 @@
 {
-  "at": "2026-11-20T17:11:57Z",
+  "at": "2026-11-20T17:12:50Z",
   "products": 129,
   "filesWithoutLicense": [],
   "badFiles": [
-    {
-      "id": "eheloc-faq",
-      "file": "wr-2024-19-eheloc-faq-20260901-vcp-2ac59cde3e.zip",
-      "problem": "does not start with \"PK\""
-    },
     {
       "id": "logical-data-model-3-6",
       "file": "v3-6-logical-data-model-cr-bff032918b.zip",
@@ -56,11 +51,6 @@
     {
       "id": "smart-doc-v3-security-instrument-specification",
       "file": "wr2023-02-securityinstrument-vcr-6bee502d89.zip",
-      "problem": "does not start with \"PK\""
-    },
-    {
-      "id": "smart-doc-version-3",
-      "file": "wr-2026-04-smartdocv3iguideupdates-vcp-3df3cff8c7.zip",
       "problem": "does not start with \"PK\""
     },
     {
