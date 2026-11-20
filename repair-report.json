@@ -1,20 +1,11 @@
 {
-  "at": "2026-11-20T17:32:43Z",
+  "at": "2026-11-20T20:02:04Z",
   "source": "https://higherlogicdownload.s3.amazonaws.com/MISMO/b0af7660-1193-44cf-ad90-4073559f7527/UploadedImages/Standards_Downloads/",
   "checked": {
     "files": 260,
     "zips": 155
   },
-  "fixed": [
-    {
-      "id": "mismo-version-3-5",
-      "file": "v3-5-b344-cr-2018-04-04-ldd-1-00ec87e759.zip",
-      "problem": "does not start with \"PK\"",
-      "savedBytes": 4484212,
-      "from": "incoming",
-      "bytes": 9727092
-    }
-  ],
+  "fixed": [],
   "failed": [
     {
       "id": "mismo-version-3-6-1-reference-model",
@@ -49,7 +40,8 @@
       "file": "wr2023-02-securityinstrument-vcr-6bee502d89.zip",
       "problem": "does not start with \"PK\"",
       "savedBytes": 37499894,
-      "why": "the original does not start with \"PK\""
+      "from": "incoming",
+      "why": "the original has no zip directory at its end"
     },
     {
       "id": "logical-data-model-3-6",
