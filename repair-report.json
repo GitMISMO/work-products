@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-20T20:04:30Z",
+  "at": "2026-11-21T00:17:21Z",
   "source": "https://higherlogicdownload.s3.amazonaws.com/MISMO/b0af7660-1193-44cf-ad90-4073559f7527/UploadedImages/Standards_Downloads/",
   "checked": {
     "files": 260,
@@ -7,12 +7,20 @@
   },
   "fixed": [
     {
-      "id": "smart-doc-v3-security-instrument-specification",
-      "file": "wr2023-02-securityinstrument-vcr-6bee502d89.zip",
-      "problem": "is 37,499,894 bytes, not 42,742,774",
-      "savedBytes": 37499894,
+      "id": "mismo-version-3-4",
+      "file": "v3-4-b324-r-2016-01-28-ldd-911707be46.zip",
+      "problem": "does not start with \"PK\"",
+      "savedBytes": 4085100,
       "from": "incoming",
-      "bytes": 42742774
+      "bytes": 9327980
+    },
+    {
+      "id": "mismo-version-3-4",
+      "file": "v3-4-b324-r-2016-01-28-ldd-911707be46.zip",
+      "problem": "is 9,327,980 bytes, not 4,085,100",
+      "savedBytes": 9327980,
+      "from": "incoming",
+      "bytes": 9327980
     }
   ],
   "failed": [
@@ -21,20 +29,6 @@
       "file": "mismo-reference-model-v3-6-1-cr-non-member-1b3d7ede52.zip",
       "problem": "does not start with \"PK\"",
       "savedBytes": 15287791,
-      "why": "the original does not start with \"PK\""
-    },
-    {
-      "id": "mismo-version-3-4",
-      "file": "v3-4-b324-r-2016-01-28-ldd-911707be46.zip",
-      "problem": "does not start with \"PK\"",
-      "savedBytes": 4085100,
-      "why": "the original does not start with \"PK\""
-    },
-    {
-      "id": "mismo-version-3-4",
-      "file": "v3-4-b324-r-2016-01-28-ldd-911707be46.zip",
-      "problem": "does not start with \"PK\"",
-      "savedBytes": 4085100,
       "why": "the original does not start with \"PK\""
     },
     {

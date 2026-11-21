@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-20T20:04:30Z",
+  "at": "2026-11-21T00:17:22Z",
   "products": 129,
   "filesWithoutLicense": [],
   "badFiles": [
@@ -11,16 +11,6 @@
     {
       "id": "logical-data-model-3-6",
       "file": "v3-6-logical-data-model-cr-bff032918b.zip",
-      "problem": "does not start with \"PK\""
-    },
-    {
-      "id": "mismo-version-3-4",
-      "file": "v3-4-b324-r-2016-01-28-ldd-911707be46.zip",
-      "problem": "does not start with \"PK\""
-    },
-    {
-      "id": "mismo-version-3-4",
-      "file": "v3-4-b324-r-2016-01-28-ldd-911707be46.zip",
       "problem": "does not start with \"PK\""
     },
     {
