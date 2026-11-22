@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T01:51:06Z",
+  "updated": "2026-11-22T01:54:37Z",
   "source": "MISMO Manufacturing System",
   "count": 129,
   "products": [
@@ -2420,7 +2420,7 @@
       "published": null,
       "license": 4,
       "membersOnly": false,
-      "libraryUrl": "https://www.mismo.org/viewdocument/version-36-package",
+      "libraryUrl": "https://www.mismo.org/viewdocument/mismo-version-362-reference-model",
       "externalUrl": null,
       "purchaseUrl": null,
       "files": [
@@ -2443,7 +2443,7 @@
       "published": null,
       "license": 4,
       "membersOnly": false,
-      "libraryUrl": "https://www.mismo.org/viewdocument/version-36-package",
+      "libraryUrl": "https://www.mismo.org/viewdocument/mismo-version-3-6-3-reference-model",
       "externalUrl": null,
       "purchaseUrl": null,
       "files": [
